@@ -1,7 +1,7 @@
 # Jeremy Longshore
 
 **Independent AI Consultant | Founder, Intent Solutions**
-*Building operator-first AI systems that ship to production*
+*Creating Industries That Don't Exist*
 
 [![Website](https://img.shields.io/badge/Company-intentsolutions.io-blue?style=flat-square)](https://intentsolutions.io)
 [![Personal](https://img.shields.io/badge/Personal-jeremylongshore.com-green?style=flat-square)](https://jeremylongshore.com)
@@ -12,11 +12,11 @@
 
 ---
 
-## 🎯 AI Systems That Ship to Production
+## 🎯 Creating Industries That Don't Exist
 
 I sit where practical operations meets modern AI. I design, ship, and maintain production systems that eliminate manual busywork while keeping data private and compliant.
 
-**Core Philosophy:** "AI systems that ship to production"
+**Core Philosophy:** "Creating Industries That Don't Exist"
 
 With **15+ years of corporate operational experience** at the managing partner level (Bloomin' Brands), I now build AI-powered businesses that deliver immediate ROI—not demos.
 
