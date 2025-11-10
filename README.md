@@ -8,11 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremylongshore-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/jeremylongshore)
 [![X/Twitter](https://img.shields.io/badge/X-@asphaltcowb0y-000000?style=flat-square&logo=x)](https://x.com/asphaltcowb0y)
 
-📍 Gulf Shores, Alabama 🏖️ (UTC -06:00) | 📧 jeremy@intentsolutions.io | 🎮 Discord: asphaltcowboy
+Gulf Shores, Alabama (UTC -06:00) | jeremy@intentsolutions.io | Discord: asphaltcowboy
 
 ---
 
-## 🎯 Creating Industries That Don't Exist
+## Creating Industries That Don't Exist
 
 I sit where practical operations meets modern AI. I design, ship, and maintain production systems that eliminate manual busywork while keeping data private and compliant.
 
@@ -26,24 +26,24 @@ From Claude Code plugins to automotive diagnostics to AI SDR automation, I focus
 
 ---
 
-## 🚀 Flagship Product: PipelinePilot
+## Flagship Product: PipelinePilot
 
 <div align="center">
 
-### [🎯 PipelinePilot - AI SDR Automation Platform](https://pipelinepilot-prod.web.app/)
+### [PipelinePilot - AI SDR Automation Platform](https://pipelinepilot-prod.web.app/)
 
 **Your AI Sales Assistant - End-to-end SDR automation in four steps**
 
 </div>
 
-#### 🤖 Four Specialized AI Agents
+#### Four Specialized AI Agents
 
 - **Campaign Coordinator** - Orchestrates workflow execution
 - **Data Enrichment Specialist** - Normalizes, deduplicates, enriches leads
 - **Outreach Generation Expert** - Crafts personalized emails via Gemini 2.5 Flash
 - **Quality Assurance Guardian** - Validates configs and data quality
 
-#### 🏢 Enterprise Infrastructure
+#### Enterprise Infrastructure
 
 - Built on **Google Vertex AI Agent Engine** for production scale
 - Integrates Clay, Apollo, Clearbit, Crunchbase
@@ -55,29 +55,29 @@ From Claude Code plugins to automotive diagnostics to AI SDR automation, I focus
 
 <div align="center">
 
-[![Try PipelinePilot](https://img.shields.io/badge/🚀_Try_PipelinePilot-Live_Beta-brightgreen?style=for-the-badge)](https://pipelinepilot-prod.web.app/)
+[![Try PipelinePilot](https://img.shields.io/badge/Try_PipelinePilot-Live_Beta-brightgreen?style=for-the-badge)](https://pipelinepilot-prod.web.app/)
 
 </div>
 
 ---
 
-## 🛠️ Service Offerings
+## Service Offerings
 
-### 1. 🤖 Agent Workflows
+### 1. Agent Workflows
 Lightweight assistants that reason and execute against your SOPs, dashboards, and pipelines. Claude-powered & OpenAI-backed agents with safety rails. Deploy agents backed by your docs, vector stores, and trust systems.
 
-### 2. 🔒 Private AI
+### 2. Private AI
 Keep data on your cloud while offering a ChatGPT-style experience to every teammate. Secure Model Context Protocol (MCP) server with container isolation. Enterprise stack integration with observability.
 
-### 3. ⚡ Automation
+### 3. Automation
 n8n + Netlify workflows that eliminate manual reporting, onboarding, and follow-ups. Replace manual tasks with measurable automation. Firebase + Firestore for distributed team backends.
 
-### 4. ☁️ Cloud Infrastructure
+### 4. Cloud Infrastructure
 Google Cloud-native architectures—Vertex AI, BigQuery, Firebase. Enterprise patterns with observability, access control, and rollback strategies. IaC deployment with monitoring baked in from day one.
 
 ---
 
-## 💼 Tech Stack
+## Tech Stack
 
 <details>
 <summary><b>Click to expand full tech stack</b></summary>
@@ -150,33 +150,33 @@ Google Cloud-native architectures—Vertex AI, BigQuery, Firebase. Enterprise pa
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎯 AI Agent & Automation Platforms
+### AI Agent & Automation Platforms
 
 #### [PipelinePilot](https://pipelinepilot-prod.web.app/) - Production Beta
 End-to-end AI SDR automation with 4 specialized agents. Built on Google Vertex AI Agent Engine for enterprise scale. Integrates Clay, Apollo, Clearbit, Crunchbase. Gemini 2.5 Flash for intelligent content generation. Auto-scaling infrastructure with built-in observability.
 
 **Tech:** Vertex AI, Gemini 2.5, Firebase, GCP, Cloud Functions
 
-#### [DiagnosticPro.io](https://diagnosticpro.io) - 💰 Revenue-Generating
+#### [DiagnosticPro.io](https://diagnosticpro.io) - Revenue-Generating
 Live automotive diagnostics for service centers. Vertex AI orchestrates triage while Firebase keeps technicians synced in real time. **$4.99 vs $150+ shop diagnostics - 97% cost savings.** Real customers, real revenue, real cost savings.
 
 **Tech:** TypeScript, React, Vertex AI, Firebase, BigQuery
 
 ---
 
-### 🔌 Developer Productivity Ecosystem
+### Developer Productivity Ecosystem
 
-#### [claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) ⭐ 302 | 🍴 39
+#### [claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) - 302 stars | 39 forks
 **227+ production-ready plugins** for Claude Code community. First Agent Skills plugin system (Skills Powerkit). 167 Agent Skills compliant with Anthropic Spec v1.0. Excel Analyst Pro: Investment banking-grade financial modeling.
 
-🌐 **Visit marketplace:** [claudecodeplugins.io](https://claudecodeplugins.io)
+**Visit marketplace:** [claudecodeplugins.io](https://claudecodeplugins.io)
 
 **Tech:** Next.js 15, PostgreSQL, Cloud Run
 
 #### [ai-devops-intent-solutions](https://github.com/jeremylongshore/ai-devops-intent-solutions)
-🤖 **AI-Powered Documentation Generator.** Enterprise-ready docs in 5 minutes: PRD, Architecture, Tasks, Risk Management. Claude API integration with zero setup required.
+**AI-Powered Documentation Generator.** Enterprise-ready docs in 5 minutes: PRD, Architecture, Tasks, Risk Management. Claude API integration with zero setup required.
 
 **Tech:** JavaScript, Claude API, Automation
 
@@ -187,21 +187,21 @@ Clean AI agent implementation - production-ready autonomous agent framework. Pyt
 
 ---
 
-### 💼 SaaS Products & Tools
+### SaaS Products & Tools
 
-#### [HustleStats.io](https://hustlestats.io) - 🏀 Beta Launch
+#### [HustleStats.io](https://hustlestats.io) - Beta Launch
 Youth sports performance tracking backed by **76-question parent research study.** COPPA-compliant auth, no expensive platform subscriptions. Built for parents and coaches who want data, not subscriptions.
 
 **Tech:** Next.js 15, PostgreSQL, Research-backed
 
-#### [CostPlusDB.dev](https://costplusdb.dev) - 💵 Transparent Pricing
+#### [CostPlusDB.dev](https://costplusdb.dev) - Transparent Pricing
 PostgreSQL 16 hosting with **25% fixed markup.** Published costs, pgBackRest backup, **68% savings** vs traditional providers.
 
 **Tech:** PostgreSQL 16, pgBackRest, GCP
 
 ---
 
-### ⚡ Automation & Workflow Tools
+### Automation & Workflow Tools
 
 #### [disposable-marketplace-n8n](https://github.com/jeremylongshore/disposable-marketplace-n8n)
 Instant micro-marketplaces for quote collection. CSV-driven reseller management, ranked responses, zero custom CMS.
@@ -215,7 +215,7 @@ Automated daily news monitoring and topic analysis. Transform scattered news sou
 
 ---
 
-### 📚 Content & Education
+### Content & Education
 
 #### [StartAITools.com](https://startaitools.com) - AI Implementation Hub
 **65+ technical posts, 344 pages - built in 24 hours.** Practical AI implementation guides. "Deploy in days, not months—with proof."
@@ -224,7 +224,7 @@ Automated daily news monitoring and topic analysis. Transform scattered news sou
 
 ---
 
-## 🏆 Core Competencies
+## Core Competencies
 
 ### What I Ship
 1. **AI Agent Systems** - Multi-agent orchestration with Vertex AI Agent Engine
@@ -234,15 +234,15 @@ Automated daily news monitoring and topic analysis. Transform scattered news sou
 5. **Frontend Experiences** - Astro + React with coherent design systems and analytics
 
 ### Market Focus
-- 🤖 **AI SDR Automation** - PipelinePilot for sales pipeline automation
-- 🏥 **Universal Diagnostics** - Automotive to healthcare platforms
-- 👨‍👩‍👧 **Youth Development** - HUSTLE research initiative for sports families
-- 🔧 **Right-to-Repair** - Active in emerging AI standards
-- 🏢 **Enterprise Ready** - Observability, access control, rollback strategies
+- **AI SDR Automation** - PipelinePilot for sales pipeline automation
+- **Universal Diagnostics** - Automotive to healthcare platforms
+- **Youth Development** - HUSTLE research initiative for sports families
+- **Right-to-Repair** - Active in emerging AI standards
+- **Enterprise Ready** - Observability, access control, rollback strategies
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -256,7 +256,7 @@ Automated daily news monitoring and topic analysis. Transform scattered news sou
 
 ---
 
-## 🎓 Research & Thought Leadership
+## Research & Thought Leadership
 
 - **HUSTLE Initiative**: 76-question parent research study powering youth sports analytics
 - **Right-to-Repair Advocacy**: Active in automotive diagnostic transparency
@@ -265,29 +265,29 @@ Automated daily news monitoring and topic analysis. Transform scattered news sou
 
 ---
 
-## 💡 Recent Highlights
+## Recent Highlights
 
-- 🎯 **PipelinePilot Launch** - AI SDR automation on Vertex AI Agent Engine
-- 🎉 **227+ Claude Code Plugins** - Largest community plugin marketplace
-- 🏆 **First Agent Skills System** - Compliant with Anthropic Spec v1.0
-- 💰 **4 Revenue-Generating Products** - PipelinePilot, DiagnosticPro, CostPlusDB, HustleStats
-- 📝 **344 Pages Published** - StartAITools hub built in 24 hours
-- 🚀 **Enterprise Architecture** - Production systems with observability patterns
-- ☁️ **Google Cloud Native** - Deep expertise in Vertex AI, BigQuery, Firebase
+- **PipelinePilot Launch** - AI SDR automation on Vertex AI Agent Engine
+- **227+ Claude Code Plugins** - Largest community plugin marketplace
+- **First Agent Skills System** - Compliant with Anthropic Spec v1.0
+- **4 Revenue-Generating Products** - PipelinePilot, DiagnosticPro, CostPlusDB, HustleStats
+- **344 Pages Published** - StartAITools hub built in 24 hours
+- **Enterprise Architecture** - Production systems with observability patterns
+- **Google Cloud Native** - Deep expertise in Vertex AI, BigQuery, Firebase
 
 ---
 
-## 📞 Let's Build Together
+## Let's Build Together
 
 ### Three ways to engage:
 
 <div align="center">
 
-[![Try PipelinePilot](https://img.shields.io/badge/🎯_Try_PipelinePilot-AI_SDR_Automation-brightgreen?style=for-the-badge)](https://pipelinepilot-prod.web.app/)
+[![Try PipelinePilot](https://img.shields.io/badge/Try_PipelinePilot-AI_SDR_Automation-brightgreen?style=for-the-badge)](https://pipelinepilot-prod.web.app/)
 
-[![Explore Plugins](https://img.shields.io/badge/🔌_Explore_Plugins-227+_Available-blue?style=for-the-badge)](https://claudecodeplugins.io)
+[![Explore Plugins](https://img.shields.io/badge/Explore_Plugins-227+_Available-blue?style=for-the-badge)](https://claudecodeplugins.io)
 
-[![Email Strategy](https://img.shields.io/badge/📧_Strategy_Call-jeremy@intentsolutions.io-orange?style=for-the-badge)](mailto:jeremy@intentsolutions.io)
+[![Email Strategy](https://img.shields.io/badge/Strategy_Call-jeremy@intentsolutions.io-orange?style=for-the-badge)](mailto:jeremy@intentsolutions.io)
 
 </div>
 
@@ -297,7 +297,7 @@ Automated daily news monitoring and topic analysis. Transform scattered news sou
 
 <div align="center">
 
-*Crafted in Gulf Shores, Alabama 🏖️ | Shipping production systems on Google Cloud*
+*Crafted in Gulf Shores, Alabama | Shipping production systems on Google Cloud*
 
 **"Measurable automation, data, and agent workflows for operators who need real outcomes"**
 
