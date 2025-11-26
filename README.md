@@ -4,9 +4,14 @@
 
 *Creating Industries That Don't Exist*
 
-[intentsolutions.io](https://intentsolutions.io) · [startaitools.com](https://startaitools.com) · [jeremylongshore.com](https://jeremylongshore.com) · [LinkedIn](https://linkedin.com/in/jeremylongshore) · jeremy@intentsolutions.io
+[![Intent Solutions](https://img.shields.io/badge/Company-intentsolutions.io-0066CC?style=for-the-badge)](https://intentsolutions.io)
+[![StartAITools](https://img.shields.io/badge/Research-startaitools.com-FF6B6B?style=for-the-badge)](https://startaitools.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jeremylongshore.com-4ECDC4?style=for-the-badge)](https://jeremylongshore.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremylongshore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremylongshore)
+[![X](https://img.shields.io/badge/X-@asphaltcowb0y-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/asphaltcowb0y)
+[![Email](https://img.shields.io/badge/Email-jeremy@intentsolutions.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremy@intentsolutions.io)
 
-Gulf Shores, Alabama (UTC -06:00) | Discord: asphaltcowboy · [X/Twitter: @asphaltcowb0y](https://x.com/asphaltcowb0y)
+📍 Gulf Shores, Alabama (UTC -06:00) | 💬 Discord: asphaltcowboy
 
 ---
 
