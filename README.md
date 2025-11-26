@@ -1,52 +1,58 @@
 # Jeremy Longshore
 
-**Founder @ Intent Solutions** · Building production AI agents and automation on Google Cloud / Vertex AI
+**Independent AI Consultant | Founder, Intent Solutions**
+
+*Creating Industries That Don't Exist*
 
 [intentsolutions.io](https://intentsolutions.io) · [startaitools.com](https://startaitools.com) · [jeremylongshore.com](https://jeremylongshore.com) · [LinkedIn](https://linkedin.com/in/jeremylongshore) · jeremy@intentsolutions.io
 
+Gulf Shores, Alabama (UTC -06:00) | Discord: asphaltcowboy · [X/Twitter: @asphaltcowb0y](https://x.com/asphaltcowb0y)
+
 ---
 
-## Now
+## Creating Industries That Don't Exist
 
-**[PipelinePilot](https://pipelinepilot-prod.web.app/)** – AI SDR automation with 4 specialized agents on Vertex AI Agent Engine. Orchestrates Clay, Apollo, Clearbit data enrichment with Gemini-powered outreach generation.
+I sit where practical operations meets modern AI. I design, ship, and maintain production systems that eliminate manual busywork while keeping data private and compliant.
 
-**[DiagnosticPro](https://diagnosticpro.io)** – Live automotive diagnostics platform. Vertex AI triage + Firebase real-time sync. Revenue-generating, production system.
+With **15+ years of corporate operational experience** at the managing partner level (Bloomin' Brands), I now build AI-powered businesses that deliver immediate ROI—not demos.
 
-**[Claude Code Plugins](https://claudecodeplugins.io)** – 500+ community plugins for Claude Code. Agent Skills system, Excel financial modeling, developer productivity tools.
+From Claude Code plugins to multi-agent intelligence platforms to AI SDR automation, I focus on tools that work. Helping fast-growing companies solve their most expensive automation challenges—from out-of-control costs and security compliance to workflow optimization. **All so you can focus on shipping your product.**
+
+> *Every build is crafted in Gulf Shores, Alabama, and tuned to go live fast.*
 
 ---
 
 ## Selected Work
 
+### [Perception](https://github.com/jeremylongshore/perception-with-intent)
+AI-powered news intelligence platform built on Google Vertex AI Agent Engine. 8 specialized agents orchestrated via A2A Protocol automatically monitor sources, analyze relevance, and deliver executive-level insights. Demonstrates production multi-agent architecture with MCP toolboxes, Firebase dashboard, and cloud-native deployment.
+
+**Stack:** Vertex AI Agent Engine, Google ADK, A2A Protocol, Gemini 2.0, Firebase, Cloud Run
+
 ### [Bob's Brain](https://jeremylongshore.github.io/bobs-brain/)
-Production Slack AI assistant built on Google ADK, Vertex AI Agent Engine, A2A protocol. Enforces drift-free architecture with Session Cache and Memory Bank. Orchestrates specialist agents for auditing and fixing Google Vertex/ADK design systems.
+Production Slack AI assistant built on Google ADK and Vertex AI Agent Engine. Enforces drift-free architecture with Session Cache and Memory Bank. Orchestrates specialist agents for auditing and fixing Google Vertex/ADK design systems. Hard Mode architecture for production-grade agent development.
 
 **Stack:** Python, Google ADK, Vertex AI, A2A Protocol, Slack
 
 ### [claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)
-509 ⭐ · 57 forks · Community plugin marketplace and Agent Skills system. Excel Analyst Pro for investment-grade financial modeling. Visit [claudecodeplugins.io](https://claudecodeplugins.io).
+509 ⭐ · 57 forks · Community plugin marketplace for Claude Code. Agent Skills system compliant with Anthropic Spec v1.0. Excel Analyst Pro for investment-grade financial modeling. Visit [claudecodeplugins.io](https://claudecodeplugins.io).
 
 **Stack:** Next.js 15, PostgreSQL, Cloud Run
 
-### [PipelinePilot](https://pipelinepilot-prod.web.app/)
-End-to-end AI SDR automation. Campaign Coordinator, Data Enrichment, Outreach Generation, QA Guardian agents. GCP Secret Manager for tenant isolation. 7 serverless functions, auto-scaling infrastructure.
+### [HustleStats.io](https://hustlestats.io)
+Youth sports performance tracking backed by research-driven feature design. COPPA-compliant authentication, privacy-first architecture. Built for parents and coaches who want data without expensive platform subscriptions.
 
-**Stack:** Vertex AI, Gemini 2.5, Firebase, Cloud Functions
-
-### [DiagnosticPro](https://diagnosticpro.io)
-Automotive diagnostics for service centers. Real customers, real revenue. Vertex AI orchestrates triage, Firebase syncs technician workflows.
-
-**Stack:** TypeScript, React, Vertex AI, Firebase, BigQuery
+**Stack:** Next.js 15, PostgreSQL, Research-backed
 
 ---
 
 ## What I Help With
 
-**Agent workflows & evaluations** – ADK/Vertex AI Agent Engine orchestration, A2A protocol integration, testing gates, tracing and observability patterns
+**Agent workflows & evaluations** – ADK/Vertex AI Agent Engine orchestration, A2A protocol integration, testing gates, tracing and observability patterns for production multi-agent systems
 
-**Cloud-native automation** – Cloud Run/Functions deployment, CI/CD pipelines with GitHub Actions, monitoring and incident response workflows
+**Cloud-native automation** – Cloud Run/Functions deployment, CI/CD pipelines with GitHub Actions and Workload Identity Federation, monitoring and incident response workflows
 
-**Data + RAG pipelines** – BigQuery/Postgres/Firestore integrations, vector search, semantic chunking strategies for production RAG systems
+**Data + RAG pipelines** – BigQuery/Postgres/Firestore integrations, vector search, semantic chunking strategies for production RAG systems with proper evaluation frameworks
 
 ---
 
@@ -66,16 +72,17 @@ Check pinned repos below for live examples. All projects ship to production—no
 <summary><b>Tech Stack</b></summary>
 
 ### AI & Agents
-- **Vertex AI** – Agent Engine, Gemini 2.5 Flash/Pro, ADK orchestration
-- **Claude** – Code assistants, agent frameworks
-- **Vector databases** – Embeddings, semantic search
+- **Vertex AI** – Agent Engine, Gemini 2.5 Flash/Pro, ADK orchestration, A2A Protocol
+- **Claude** – Code assistants, agent frameworks, MCP integration
+- **Vector databases** – Embeddings, semantic search, RAG pipelines
 
 ### Cloud & Infrastructure
 - **Google Cloud Platform** – Primary cloud (Vertex AI, BigQuery, Firebase)
-- **Cloud Run** – Container orchestration
+- **Cloud Run** – Container orchestration, MCP services
 - **Cloud Functions** – Serverless compute
 - **Firebase** – Hosting, Firestore, real-time backends
 - **Docker** – Container isolation
+- **Terraform** – Infrastructure as Code
 
 ### Data & Databases
 - **BigQuery** – Data warehousing, analytics (266-table production instance)
@@ -90,10 +97,9 @@ Check pinned repos below for live examples. All projects ship to production—no
 - **Hugo** – Documentation
 
 ### Automation & DevOps
-- **GitHub Actions** – CI/CD, automated testing
+- **GitHub Actions** – CI/CD, automated testing, Workload Identity Federation
 - **n8n** – Workflow automation
-- **Terraform** – Infrastructure as Code
-- **Python** – Scripting, data engineering
+- **Python** – Scripting, data engineering, agent development
 
 </details>
 
@@ -101,17 +107,17 @@ Check pinned repos below for live examples. All projects ship to production—no
 <summary><b>Additional Projects</b></summary>
 
 ### [StartAITools.com](https://startaitools.com)
-Technical AI implementation guides. Practical posts for shipping production AI systems.
+Technical AI implementation guides and research. Practical posts for shipping production AI systems. "Deploy in days, not months—with proof."
 
 **Stack:** Hugo, Netlify
 
-### [HustleStats.io](https://hustlestats.io)
-Youth sports performance tracking. COPPA-compliant auth, research-backed feature design.
+### [PipelinePilot](https://pipelinepilot-prod.web.app/)
+AI SDR automation with 4 specialized agents on Vertex AI Agent Engine. Orchestrates Clay, Apollo, Clearbit data enrichment with Gemini-powered outreach generation. GCP Secret Manager for tenant isolation, auto-scaling infrastructure.
 
-**Stack:** Next.js 15, PostgreSQL
+**Stack:** Vertex AI, Gemini 2.5, Firebase, Cloud Functions
 
 ### [ai-devops-intent-solutions](https://github.com/jeremylongshore/ai-devops-intent-solutions)
-AI-powered documentation generator. PRD, architecture, tasks, risk management in minutes. Claude API integration.
+AI-powered documentation generator. PRD, architecture, tasks, risk management in minutes. Claude API integration with zero setup required.
 
 **Stack:** JavaScript, Claude API
 
@@ -123,12 +129,12 @@ AI-powered documentation generator. PRD, architecture, tasks, risk management in
 
 15 years corporate operations experience (Bloomin' Brands, managing partner level). Now building AI-powered products that ship to production on Google Cloud.
 
-Located in Gulf Shores, Alabama · [X/Twitter: @asphaltcowb0y](https://x.com/asphaltcowb0y) · Discord: asphaltcowboy
+Located in Gulf Shores, Alabama
 
 ---
 
 <div align="center">
 
-**Measurable automation, data pipelines, and agent workflows**
+**Production AI agents, data pipelines, and multi-agent orchestration on Google Cloud**
 
 </div>
