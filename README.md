@@ -27,6 +27,16 @@ From Claude Code plugins to multi-agent intelligence platforms to AI SDR automat
 
 ---
 
+## Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,gcp,firebase,nextjs,react,nodejs,docker,postgres,git,github,githubactions,vscode,linux&perline=8" />
+
+</div>
+
+---
+
 ## Selected Work
 
 ### [Perception](https://github.com/jeremylongshore/perception-with-intent)
@@ -75,21 +85,11 @@ Youth sports performance tracking backed by research-driven feature design. COPP
 
 ---
 
-## Languages and Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,gcp,firebase,nextjs,react,nodejs,docker,postgres,git,github,githubactions,vscode,linux&perline=8" />
-
-</div>
-
----
-
 ## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremylongshore&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremylongshore&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremylongshore&theme=github-dark-blue&hide_border=true)
 
