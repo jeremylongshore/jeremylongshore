@@ -39,7 +39,7 @@ From Claude Code plugins to multi-agent intelligence platforms to AI SDR automat
 
 ## Selected Work
 
-### [Perception](https://github.com/jeremylongshore/perception-with-intent)
+### [Perception](https://github.com/intent-solutions-io/perception-with-intent)
 AI-powered news intelligence platform built on Google Vertex AI Agent Engine. 8 specialized agents orchestrated via A2A Protocol automatically monitor sources, analyze relevance, and deliver executive-level insights. Demonstrates production multi-agent architecture with MCP toolboxes, Firebase dashboard, and cloud-native deployment.
 
 **Stack:** Vertex AI Agent Engine, Google ADK, A2A Protocol, Gemini 2.0, Firebase, Cloud Run
@@ -49,8 +49,8 @@ Production Slack AI assistant built on Google ADK and Vertex AI Agent Engine. En
 
 **Stack:** Python, Google ADK, Vertex AI, A2A Protocol, Slack
 
-### [claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)
-509 ⭐ · 57 forks · Community plugin marketplace for Claude Code. Agent Skills system compliant with Anthropic Spec v1.0. Excel Analyst Pro for investment-grade financial modeling. Visit [claudecodeplugins.io](https://claudecodeplugins.io).
+### [claude-code-plugins-plus](https://github.com/intent-solutions-io/claude-code-plugins-plus)
+699 ⭐ · 71 forks · Community plugin marketplace for Claude Code. Agent Skills system compliant with Anthropic Spec v1.0. Excel Analyst Pro for investment-grade financial modeling. Visit [claudecodeplugins.io](https://claudecodeplugins.io).
 
 **Stack:** Next.js 15, PostgreSQL, Cloud Run
 
@@ -153,7 +153,7 @@ AI SDR automation with 4 specialized agents on Vertex AI Agent Engine. Orchestra
 
 **Stack:** Vertex AI, Gemini 2.5, Firebase, Cloud Functions
 
-### [ai-devops-intent-solutions](https://github.com/jeremylongshore/ai-devops-intent-solutions)
+### [ai-devops-intent-solutions](https://github.com/intent-solutions-io/ai-devops-intent-solutions)
 AI-powered documentation generator. PRD, architecture, tasks, risk management in minutes. Claude API integration with zero setup required.
 
 **Stack:** JavaScript, Claude API
