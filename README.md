@@ -44,8 +44,8 @@ AI-powered news intelligence platform built on Google Vertex AI Agent Engine. 8 
 
 **Stack:** Vertex AI Agent Engine, Google ADK, A2A Protocol, Gemini 2.0, Firebase, Cloud Run
 
-### [Bob's Brain](https://intent-solutions-io.github.io/bobs-brain/)
-Production Slack AI assistant built on Google ADK and Vertex AI Agent Engine. Enforces drift-free architecture with Session Cache and Memory Bank. Orchestrates specialist agents for auditing and fixing Google Vertex/ADK design systems. Hard Mode architecture for production-grade agent development. Now with 7/8 Google Multi-Agent Patterns implemented.
+### [Bob's Brain](https://jeremylongshore.github.io/bobs-brain/)
+Production Slack AI assistant built on Google ADK and Vertex AI Agent Engine. Enforces drift-free architecture with Session Cache and Memory Bank. Orchestrates specialist agents for auditing and fixing Google Vertex/ADK design systems. Hard Mode architecture for production-grade agent development.
 
 **Stack:** Python, Google ADK, Vertex AI, A2A Protocol, Slack
 
