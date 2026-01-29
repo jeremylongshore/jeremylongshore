@@ -66,6 +66,16 @@
 
 - [Nixtla Plugins](https://github.com/intent-solutions-io/nixtla-baseline-lab) — Time series forecasting plugins
 
+## Open Source Contributions
+
+- [Vertex AI Samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples/pull/4393) — ADK inline source deployment tutorial for Agent Engine
+- [Agent Starter Pack](https://github.com/GoogleCloudPlatform/agent-starter-pack/pull/580) — Bob's Brain production ADK reference in community showcase
+- [PostHog](https://github.com/PostHog/posthog) — React state management and feature flag bug fixes (2 PRs merged)
+- [Beads](https://github.com/beads-project/beads/pull/718) — Natural-language skill activation (823 lines)
+- [Blur Extension](https://github.com/nicholasq/blur-extension) — Teams, Slack, export/import, custom patterns (4 PRs)
+- [tldraw](https://github.com/tldraw/tldraw) — Prettier extension fix
+- [filament](https://github.com/nicholasq/filament) — Dark mode improvement
+
 ---
 
 <div align="center">
