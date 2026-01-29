@@ -48,7 +48,6 @@
 ## Web3
 
 - [IRSB Protocol](https://github.com/intent-solutions-io/irsb-protocol) — Intent-based transaction accountability on Ethereum
-- [Lit With Intent](https://github.com/intent-solutions-io/lit-with-intent) — Decentralized access control integration
 
 ## N8N Workflows
 
