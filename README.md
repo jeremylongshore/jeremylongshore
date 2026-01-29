@@ -43,7 +43,6 @@ Community plugin marketplace for Claude Code with 227+ plugins and 60+ specialis
 
 ### Web3
 - 🔐 [IRSB Protocol](https://github.com/intent-solutions-io/irsb-protocol) — Intent-based transaction framework
-- 🔥 [Lit Protocol](https://github.com/intent-solutions-io) — Decentralized access control integrations
 
 ---
 
