@@ -1,8 +1,23 @@
 # Jeremy Longshore
 
-📍 Gulf Shores, AL · Founder @ [Intent Solutions](https://intentsolutions.io) · *Creating Industries That Don't Exist*
+📍 Gulf Shores, AL · Founder @ [Intent Solutions](https://intentsolutions.io) · *Organizational Transformation Leader*
 
 [jeremylongshore.com](https://jeremylongshore.com) · [@asphaltcowb0y](https://x.com/asphaltcowb0y) · [LinkedIn](https://linkedin.com/in/jeremylongshore) · [jeremy@intentsolutions.io](mailto:jeremy@intentsolutions.io)
+
+---
+
+## How I Drive Organizational Delivery
+
+I lead organizational transformation — aligning teams, integrating cultures post-acquisition, and building the systems that make new ways of working stick. Engineering sets the pace, but the shift is org-wide.
+
+| | |
+|---|---|
+| **End-to-End Visibility** | Value stream mapping, flow metrics, bottleneck identification |
+| **Platform Engineering** | Internal developer platforms, golden paths, self-service infrastructure |
+| **Structured Enablement** | Centralized strategy, role-specific training, governance frameworks |
+| **Metrics** | Deployment frequency, lead time, change failure rate, MTTR |
+
+*AI amplifies organizational strengths and dysfunctions alike. Tools don't transform orgs — people do.*
 
 ---
 
@@ -12,73 +27,39 @@
 
 ---
 
-## Flagship
-
 - [Claude Code Plugins Plus](https://github.com/intent-solutions-io/claude-code-plugins-plus) — 1,167 ⭐ · 253+ production plugins and MCP servers · [claudecodeplugins.io](https://claudecodeplugins.io)
-
-## Products
-
+- [Perception](https://github.com/intent-solutions-io/perception-with-intent) — 8 Vertex AI agents monitoring 50+ news sources
+- [Bob's Brain](https://github.com/intent-solutions-io/bobs-brain) — Multi-agent ADK patterns compliance
 - [HustleStats](https://hustlestats.io) — Youth sports analytics with AI performance reports
 - [CostPlusDB](https://costplusdb.dev) — PostgreSQL hosting: infrastructure + 25%
 - [STCI](https://inferencepriceindex.com) — Daily LLM API pricing benchmark
 - [Start AI Tools](https://startaitools.com) — AI dev tools directory + tutorials
-- [Intent Solutions](https://intentsolutions.io) — AI consulting and development
-
-## AI Agents & Platforms
-
-- [Perception](https://github.com/intent-solutions-io/perception-with-intent) — 8 Vertex AI agents monitoring 50+ news sources
-- [Bob's Brain](https://github.com/intent-solutions-io/bobs-brain) — Multi-agent ADK patterns compliance
 - [Executive Intent](https://github.com/intent-solutions-io/executive-intent) — Gmail/Calendar → DLP-screened knowledge base
 - [NEXUS Local RAG](https://github.com/intent-solutions-io/nexus-intelligence) — Autonomous local AI for private docs
 - [Lumera Agent Memory](https://github.com/intent-solutions-io/lumera-agent-memory) — Hybrid memory for coding agents
-
-## Developer Tools
-
 - [Waygate MCP](https://github.com/intent-solutions-io/waygate-mcp) — Docker isolation for multi-tenant tool execution
 - [Git With Intent](https://github.com/intent-solutions-io/git-with-intent) — AI commit messages, changelogs, PR descriptions
 - [IntentMail](https://github.com/intent-solutions-io/intent-mail) — Unified inbox (Gmail + Outlook) + MCP server
-- [Intent Catalog](https://github.com/intent-solutions-io/intent-catalog) — Project templates and scaffolding
-- [Intent Blueprint Docs](https://github.com/intent-solutions-io/blueprint-docs) — 22 professional doc templates
-- [Create Agent Skill MD](https://github.com/intent-solutions-io/create-agent-skill-md) — CLI for Claude Code agent skills
-- [GenAI Project Template](https://github.com/intent-solutions-io/genai-project-template) — Starter for AI projects
-- [Agent Model JVP Base](https://github.com/intent-solutions-io/agent-model-jvp-base) — Base agent model patterns
-- [Prompts Intent Solutions](https://github.com/intent-solutions-io/prompts-intent-solutions) — Curated prompt library
-- [Homebrew Tap](https://github.com/intent-solutions-io/homebrew-tap) — macOS package distribution
-
-## Web3
-
 - [IRSB Protocol](https://github.com/intent-solutions-io/irsb-protocol) — Intent-based transaction accountability on Ethereum
 
-## N8N Workflows
-
-- [Disposable Marketplace](https://github.com/intent-solutions-io/disposable-marketplace) — Automated marketplace listings
-- [Gmail Drive Organizer](https://github.com/intent-solutions-io/gmail-drive-organizer) — Email attachment organization
-- [News Pipeline](https://github.com/intent-solutions-io/news-pipeline) — Automated news aggregation
-- [Lead Followup System](https://github.com/intent-solutions-io/lead-followup-system) — CRM automation workflows
-- [AI Blog Journalist](https://github.com/intent-solutions-io/ai-blog-journalist) — Automated blog content generation
-
-## Apps & Games
-
-- [The County Line](https://github.com/intent-solutions-io/the-county-line) — Roblox UTV mud racing
-- [Roblox Game Template](https://github.com/intent-solutions-io/roblox-game-template) — Starter template for Roblox games
-
-## Client Work
-
-- [Nixtla Plugins](https://github.com/intent-solutions-io/nixtla-baseline-lab) — Time series forecasting plugins
-
-## Open Source Contributions
+**Open Source Contributions**
 
 - [Vertex AI Samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples/pull/4393) — ADK inline source deployment tutorial for Agent Engine
 - [Agent Starter Pack](https://github.com/GoogleCloudPlatform/agent-starter-pack/pull/580) — Bob's Brain production ADK reference in community showcase
 - [PostHog](https://github.com/PostHog/posthog) — React state management and feature flag bug fixes (2 PRs merged)
 - [Beads](https://github.com/beads-project/beads/pull/718) — Natural-language skill activation (823 lines)
-- [Blur Extension](https://github.com/nicholasq/blur-extension) — Teams, Slack, export/import, custom patterns (4 PRs)
-- [tldraw](https://github.com/tldraw/tldraw) — Prettier extension fix
-- [filament](https://github.com/nicholasq/filament) — Dark mode improvement
+
+---
+
+## Background
+
+20+ years ops leadership → self-taught developer → AI systems architect. Marine, Citadel alumni. I help engineering orgs navigate pivots and scale post-restructuring — not just the tooling, but the cultural shift that makes it stick.
 
 ---
 
 <div align="center">
+
+**Organizational transformation through intent-driven methodology**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremylongshore&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
