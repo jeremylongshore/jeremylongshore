@@ -27,7 +27,7 @@ I lead organizational transformation — aligning teams, integrating cultures po
 
 ---
 
-- [Claude Code Plugins Plus](https://github.com/intent-solutions-io/claude-code-plugins-plus) — 1,167 ⭐ · 253+ production plugins and MCP servers · [claudecodeplugins.io](https://claudecodeplugins.io)
+- [Claude Code Plugins Plus](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) — 1,343 ⭐ · 270+ production plugins and MCP servers · [claudecodeplugins.io](https://claudecodeplugins.io)
 - [Perception](https://github.com/intent-solutions-io/perception-with-intent) — 8 Vertex AI agents monitoring 50+ news sources
 - [Bob's Brain](https://github.com/intent-solutions-io/bobs-brain) — Multi-agent ADK patterns compliance
 - [HustleStats](https://hustlestats.io) — Youth sports analytics with AI performance reports
@@ -35,7 +35,7 @@ I lead organizational transformation — aligning teams, integrating cultures po
 - [STCI](https://inferencepriceindex.com) — Daily LLM API pricing benchmark
 - [Start AI Tools](https://startaitools.com) — AI dev tools directory + tutorials
 - [Executive Intent](https://github.com/intent-solutions-io/executive-intent) — Gmail/Calendar → DLP-screened knowledge base
-- [NEXUS Local RAG](https://github.com/intent-solutions-io/nexus-intelligence) — Autonomous local AI for private docs
+- [NEXUS Local RAG](https://github.com/intent-solutions-io/iam-local-rag) — Autonomous local AI for private docs
 - [Lumera Agent Memory](https://github.com/intent-solutions-io/lumera-agent-memory) — Hybrid memory for coding agents
 - [Waygate MCP](https://github.com/intent-solutions-io/waygate-mcp) — Docker isolation for multi-tenant tool execution
 - [Git With Intent](https://github.com/intent-solutions-io/git-with-intent) — AI commit messages, changelogs, PR descriptions
