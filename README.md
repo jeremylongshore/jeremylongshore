@@ -51,6 +51,8 @@
 | [**Intent Knowledge Base**](https://github.com/jeremylongshore/qmd-team-intent-kb) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Governed team memory for Claude Code — wiki-link resolution, freshness-aware search, export gating |
 | [**Braves Booth**](https://dixieroad.org) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Real-time broadcast ops dashboard for Atlanta Braves radio — stats-enriched AI narratives, pregame/postgame scheduling |
 | [**Intentional Cognition OS**](https://github.com/jeremylongshore/intentional-cognition-os) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Local-first knowledge operating system — kernel + compiler research |
+| [**Claude Code Slack Channel**](https://github.com/jeremylongshore/claude-code-slack-channel) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Two-way Slack bridge for Claude Code — Socket Mode + MCP stdio, hash-chained tamper-evident audit journal |
+| [**JRig Binary Eval**](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Release-quality evaluation harness and rollout gate for Claude Skills |
 | [**IRSB**](https://github.com/jeremylongshore/irsb) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | On-chain guardrails for AI agents — EIP-7702 spend limits, execution receipts, dispute resolution |
 
 ---
