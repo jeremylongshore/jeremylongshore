@@ -1,0 +1,75 @@
+[2025-12-19 22:14:11] Daemon started (interval: 5s, auto-commit: false, auto-push: false)
+[2025-12-19 22:14:11] Using database: /home/jeremy/000-projects/github-profile/.beads/beads.db
+[2025-12-19 22:14:11] Database opened: /home/jeremy/000-projects/github-profile/.beads/beads.db (freshness checking enabled)
+[2025-12-19 22:14:11] Upgrading .beads/.gitignore...
+[2025-12-19 22:14:11] Warning: failed to upgrade .gitignore: open .beads/.gitignore: no such file or directory
+[2025-12-19 22:14:11] Repository fingerprint validated: da119c4e
+[2025-12-19 22:14:11] Starting RPC server: /home/jeremy/000-projects/github-profile/.beads/bd.sock
+[2025-12-19 22:14:11] RPC server ready (socket listening)
+[2025-12-19 22:14:11] Registered in global registry
+[2025-12-19 22:14:11] Starting sync cycle...
+[2025-12-19 22:14:11] Exported to JSONL
+[2025-12-19 22:14:12] Pulled sync branch master
+[2025-12-19 22:14:12] Imported from JSONL
+[2025-12-19 22:14:12] Sync cycle complete
+[2025-12-19 22:14:12] Monitoring parent process (PID 0)
+[2025-12-19 22:14:12] Using event-driven mode
+[2025-12-19 22:16:06] JSONL file created: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+[2025-12-19 22:16:06] File change detected: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl (op: CHMOD)
+[2025-12-19 22:16:06] File change detected: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl (op: CHMOD)
+[2025-12-19 22:16:06] Git ref change detected: /home/jeremy/000-projects/github-profile/.git/refs/heads/master.lock
+[2025-12-19 22:16:06] Git ref change detected: /home/jeremy/000-projects/github-profile/.git/refs/heads/master.lock
+[2025-12-19 22:16:07] Import triggered by file change
+[2025-12-19 22:16:07] Starting auto-import...
+[2025-12-19 22:16:07] Skipping auto-import: JSONL content unchanged
+[2025-12-19 22:32:38] JSONL file created: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+[2025-12-19 22:32:38] File change detected: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl (op: CHMOD)
+[2025-12-19 22:32:38] File change detected: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl (op: CHMOD)
+[2025-12-19 22:32:38] Git ref change detected: /home/jeremy/000-projects/github-profile/.git/refs/heads/master.lock
+[2025-12-19 22:32:39] JSONL file created: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+[2025-12-19 22:32:39] File change detected: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl (op: CHMOD)
+[2025-12-19 22:32:39] File change detected: /home/jeremy/000-projects/github-profile/.beads/issues.jsonl (op: CHMOD)
+[2025-12-19 22:32:39] Import triggered by file change
+[2025-12-19 22:32:39] Starting auto-import...
+[2025-12-19 22:32:39] Skipping auto-import: JSONL content unchanged
+[2025-12-19 22:32:40] Import triggered by file change
+[2025-12-19 22:32:40] Starting auto-import...
+[2025-12-19 22:32:40] Skipping auto-import: JSONL content unchanged
+time=2026-02-02T11:34:40.487-06:00 level=INFO msg="Daemon started (interval: %v, auto-commit: %v, auto-push: %v)" !BADKEY=5s !BADKEY=false !BADKEY=false
+time=2026-02-02T11:34:40.488-06:00 level=INFO msg="using database" path=/home/jeremy/000-projects/github-profile/.beads/beads.db
+time=2026-02-02T11:34:40.663-06:00 level=INFO msg="database opened" path=/home/jeremy/000-projects/github-profile/.beads/beads.db backend=sqlite freshness_checking=true
+time=2026-02-02T11:34:40.663-06:00 level=INFO msg="upgrading .beads/.gitignore"
+time=2026-02-02T11:34:40.663-06:00 level=WARN msg="failed to upgrade .gitignore" error="open .beads/.gitignore: no such file or directory"
+time=2026-02-02T11:34:40.671-06:00 level=INFO msg="Repository fingerprint validated: %s" !BADKEY=da119c4e
+time=2026-02-02T11:34:40.705-06:00 level=WARN msg="sync-branch misconfiguration detected" sync_branch=master message="sync-branch is your current branch; daemon sync operations will be skipped; configure a dedicated sync branch (e.g., 'beads-sync') to enable sync"
+time=2026-02-02T11:34:40.705-06:00 level=WARN msg="database schema version mismatch" db_version=0.30.6 daemon_version=0.49.1
+time=2026-02-02T11:34:40.705-06:00 level=INFO msg="auto-upgrading database to daemon version"
+time=2026-02-02T11:34:40.707-06:00 level=INFO msg="database version updated" version=0.49.1
+time=2026-02-02T11:34:40.716-06:00 level=INFO msg="starting RPC server" socket=/home/jeremy/000-projects/github-profile/.beads/bd.sock
+time=2026-02-02T11:34:40.718-06:00 level=INFO msg="RPC server ready (socket listening)"
+time=2026-02-02T11:34:40.733-06:00 level=INFO msg="registered in global registry"
+time=2026-02-02T11:34:40.743-06:00 level=INFO msg="Skipping %s: sync-branch '%s' is your current branch. Use a dedicated sync branch." "sync cycle"=master
+time=2026-02-02T11:34:40.744-06:00 level=INFO msg="monitoring parent process" pid=0
+time=2026-02-02T11:34:40.744-06:00 level=INFO msg="using event-driven mode"
+time=2026-02-02T11:34:40.745-06:00 level=INFO msg="Auto-pull disabled: use 'git pull' manually to sync remote changes"
+time=2026-02-02T11:34:40.856-06:00 level=INFO msg="JSONL file created: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+time=2026-02-02T11:34:40.856-06:00 level=INFO msg="File change detected: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+time=2026-02-02T11:34:40.906-06:00 level=INFO msg="Git ref change detected: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.git/refs/heads/master.lock
+time=2026-02-02T11:34:41.908-06:00 level=INFO msg="Import triggered by file change"
+time=2026-02-02T11:34:41.914-06:00 level=INFO msg="Skipping %s: sync-branch '%s' is your current branch. Use a dedicated sync branch." auto-import=master
+time=2026-02-02T11:34:46.738-06:00 level=INFO msg="JSONL file created: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+time=2026-02-02T11:34:46.738-06:00 level=INFO msg="File change detected: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+time=2026-02-02T11:34:47.745-06:00 level=INFO msg="Import triggered by file change"
+time=2026-02-02T11:34:47.750-06:00 level=INFO msg="Skipping %s: sync-branch '%s' is your current branch. Use a dedicated sync branch." auto-import=master
+time=2026-02-02T11:35:20.087-06:00 level=INFO msg="Git ref change detected: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.git/refs/heads/master.lock
+time=2026-02-02T11:35:21.088-06:00 level=INFO msg="Import triggered by file change"
+time=2026-02-02T11:35:21.104-06:00 level=INFO msg="Skipping %s: sync-branch '%s' is your current branch. Use a dedicated sync branch." auto-import=master
+time=2026-02-02T11:36:43.240-06:00 level=INFO msg="JSONL file created: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+time=2026-02-02T11:36:43.240-06:00 level=INFO msg="File change detected: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+time=2026-02-02T11:36:43.270-06:00 level=INFO msg="Git ref change detected: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.git/refs/heads/master.lock
+time=2026-02-02T11:36:44.273-06:00 level=INFO msg="Import triggered by file change"
+time=2026-02-02T11:36:44.278-06:00 level=INFO msg="Skipping %s: sync-branch '%s' is your current branch. Use a dedicated sync branch." auto-import=master
+time=2026-02-02T11:36:48.527-06:00 level=INFO msg="JSONL file created: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+time=2026-02-02T11:36:48.527-06:00 level=INFO msg="File change detected: %s" !BADKEY=/home/jeremy/000-projects/github-profile/.beads/issues.jsonl
+time=2026-02-02T11:36:49.529-06:00 level=INFO msg="Import triggered by file change"
+time=2026-02-02T11:36:49.545-06:00 level=INFO msg="Skipping %s: sync-branch '%s' is your current branch. Use a dedicated sync branch." auto-import=master

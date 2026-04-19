@@ -19,8 +19,8 @@
 
 *I build AI systems that ship. I train teams to run faster with Claude Code.*
 
-![Stars](https://img.shields.io/badge/Stars-1.4k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Projects-30+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-1.9k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Projects-40+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 
 [![Website](https://img.shields.io/badge/jeremylongshore.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://jeremylongshore.com)
 [![Company](https://img.shields.io/badge/intentsolutions.io-2b2b2b?style=flat-square&logo=building-columns&logoColor=white)](https://intentsolutions.io)
@@ -48,7 +48,7 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 
 | Tool | Stars | Lang | Purpose |
 |:-----|:-----:|:----:|:--------|
-| [**Claude Code Plugins**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 270+ production plugins and 739 agent skills for Claude Code |
+| [**Claude Code Plugins**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 423 plugins, 2,849 skills, 177 agents for Claude Code |
 | [**Perception**](https://github.com/intent-solutions-io/perception-with-intent) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/perception-with-intent?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 8 Vertex AI agents monitoring 50+ news sources in parallel |
 | [**Executive Intent**](https://github.com/intent-solutions-io/executive-intent) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/executive-intent?style=flat-square&label=⭐) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | Proof-first security pipeline for Gmail/Calendar intelligence |
 | [**Bob's Brain**](https://github.com/intent-solutions-io/iam-bobs-brain) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/iam-bobs-brain?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 8 specialist agents for Google ADK compliance |
@@ -60,8 +60,11 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 | [**NEXUS Local RAG**](https://github.com/intent-solutions-io/iam-local-rag) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/iam-local-rag?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Zero-cost local RAG for private document intelligence |
 | [**Lumera Agent Memory**](https://github.com/intent-solutions-io/lumera-agent-memory) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/lumera-agent-memory?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Hybrid short/long-term memory for coding agents |
 | [**Waygate MCP**](https://github.com/jeremylongshore/waygate-mcp) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/waygate-mcp?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Enterprise MCP server with Docker isolation |
-| [**Git With Intent**](https://github.com/intent-solutions-io/iam-git-with-intent) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/iam-git-with-intent?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | AI-powered git workflows and commit analysis |
-| [**IntentMail**](https://github.com/intent-solutions-io/intent-mail) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/intent-mail?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Unified Gmail + Outlook with MCP integration |
+| [**IntentCAD**](https://github.com/jeremylongshore/cad-dxf-agent) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/cad-dxf-agent?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Local-first DXF editor with LLM prompt-to-edit planning, validation, and approval gates |
+| [**Intent Knowledge Base**](https://github.com/jeremylongshore/qmd-team-intent-kb) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/qmd-team-intent-kb?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Governed team memory platform for Claude Code with wiki-link resolution and knowledge graph |
+| [**Intentional Cognition OS**](https://github.com/jeremylongshore/intentional-cognition-os) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/intentional-cognition-os?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Local-first, remote-capable knowledge operating system |
+| [**JRig Binary Eval**](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/j-rig-skill-binary-eval?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Release-quality evaluation harness and rollout gate for Claude Skills |
+| [**Claude Code Slack Channel**](https://github.com/jeremylongshore/claude-code-slack-channel) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-slack-channel?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Two-way Slack bridge for Claude Code via Socket Mode + MCP stdio |
 | [**PipelinePilot**](https://github.com/jeremylongshore/pipelinepilot) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/pipelinepilot?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | B2B sales automation with AI lead qualification |
 | [**Gastown Viewer**](https://github.com/intent-solutions-io/gastown-viewer-intent) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/gastown-viewer-intent?style=flat-square&label=⭐) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Local-first Mission Control for agent swarms |
 | [**Moat**](https://github.com/jeremylongshore/moat) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/moat?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | AI competitive advantage and defensibility analysis |
@@ -92,9 +95,12 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 
 | Project | Lang | What it does |
 |:--------|:----:|:-------------|
-| [**IRSB**](https://github.com/jeremylongshore/irsb) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | On-chain guardrails for AI agents — EIP-7702 spend limits, execution receipts, dispute resolution, and automated slashing |
-| [**HustleStats**](https://hustlestats.io) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | Youth soccer analytics with Vertex AI — real-time stat tracking, AI performance reports, college recruiting profiles |
-| [**Claude Code Plugins**](https://claudecodeplugins.io) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 270+ production plugins, 739 agent skills, and growing — the largest Claude Code plugin ecosystem |
+| [**Claude Code Plugins**](https://claudecodeplugins.io) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 423 plugins, 2,849 skills, 177 agents — the largest Claude Code plugin ecosystem · 1.9k⭐ |
+| [**IntentCAD**](https://github.com/jeremylongshore/cad-dxf-agent) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Local-first DXF editor with LLM prompt-to-edit planning — approval gates, deterministic comparison engine, multi-user auth |
+| [**Intent Knowledge Base**](https://github.com/jeremylongshore/qmd-team-intent-kb) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Governed team memory for Claude Code — wiki-link resolution, freshness-aware search, export gating |
+| [**Braves Booth**](https://dixieroad.org) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Real-time broadcast ops dashboard for Atlanta Braves radio — stats-enriched AI narratives, pregame/postgame scheduling |
+| [**Intentional Cognition OS**](https://github.com/jeremylongshore/intentional-cognition-os) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Local-first knowledge operating system — kernel + compiler research |
+| [**IRSB**](https://github.com/jeremylongshore/irsb) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | On-chain guardrails for AI agents — EIP-7702 spend limits, execution receipts, dispute resolution |
 
 ---
 
@@ -104,7 +110,7 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 
 | | Project | Description |
 |:--|:--|:--|
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐&color=2b2b2b) | **[Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)** | 270+ production plugins and 739 agent skills for Claude Code CLI |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐&color=2b2b2b) | **[Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)** | 423 plugins, 2,849 skills, 177 agents for Claude Code CLI |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/perception-with-intent?style=flat-square&label=⭐&color=2b2b2b) | **[Perception](https://github.com/intent-solutions-io/perception-with-intent)** | Multi-agent news monitoring with 8 Vertex AI agents across 50+ sources |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/iam-bobs-brain?style=flat-square&label=⭐&color=2b2b2b) | **[Bob's Brain](https://github.com/intent-solutions-io/iam-bobs-brain)** | 8 specialist agents for Google ADK compliance and code review |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/executive-intent?style=flat-square&label=⭐&color=2b2b2b) | **[Executive Intent](https://github.com/intent-solutions-io/executive-intent)** | Proof-first security pipeline for Gmail/Calendar intelligence with DLP enforcement |
@@ -129,8 +135,11 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 
 | | Project | Description |
 |:--|:--|:--|
-| ![Stars](https://img.shields.io/github/stars/intent-solutions-io/iam-git-with-intent?style=flat-square&label=⭐&color=2b2b2b) | **[Git With Intent](https://github.com/intent-solutions-io/iam-git-with-intent)** | AI-generated commit messages, changelogs, and PR descriptions |
-| ![Stars](https://img.shields.io/github/stars/intent-solutions-io/intent-mail?style=flat-square&label=⭐&color=2b2b2b) | **[IntentMail](https://github.com/intent-solutions-io/intent-mail)** | Unified Gmail + Outlook inbox with MCP server for AI agent integration |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/cad-dxf-agent?style=flat-square&label=⭐&color=2b2b2b) | **[IntentCAD](https://github.com/jeremylongshore/cad-dxf-agent)** | Local-first DXF editor with LLM prompt-to-edit planning, validation, preview, and approval gates |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/qmd-team-intent-kb?style=flat-square&label=⭐&color=2b2b2b) | **[Intent Knowledge Base](https://github.com/jeremylongshore/qmd-team-intent-kb)** | Governed team memory for Claude Code — wiki-link resolution, knowledge graph, lifecycle state machines |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/intentional-cognition-os?style=flat-square&label=⭐&color=2b2b2b) | **[Intentional Cognition OS](https://github.com/jeremylongshore/intentional-cognition-os)** | Local-first, remote-capable knowledge operating system for compiled machine reasoning |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/j-rig-skill-binary-eval?style=flat-square&label=⭐&color=2b2b2b) | **[JRig Binary Eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval)** | Release-quality evaluation harness and rollout gate for Claude Skills |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-slack-channel?style=flat-square&label=⭐&color=2b2b2b) | **[Claude Code Slack Channel](https://github.com/jeremylongshore/claude-code-slack-channel)** | Two-way Slack bridge for Claude Code via Socket Mode + MCP stdio with hash-chained audit journal |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/intent-blueprint-docs?style=flat-square&label=⭐&color=2b2b2b) | **[Intent Blueprint Docs](https://github.com/intent-solutions-io/intent-blueprint-docs)** | Enterprise AI documentation generator with 22 professional templates |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/intent-catalog?style=flat-square&label=⭐&color=2b2b2b) | **[Intent Catalog](https://github.com/intent-solutions-io/intent-catalog)** | Control-plane for managing plugins, skills, and documentation assets |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/intent-genai-project-template?style=flat-square&label=⭐&color=2b2b2b) | **[GenAI Project Template](https://github.com/intent-solutions-io/intent-genai-project-template)** | Battle-tested Python template for LLM apps with evals and CI/CD |
@@ -147,7 +156,6 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 | | Project | Description |
 |:--|:--|:--|
 | ![Stars](https://img.shields.io/github/stars/jeremylongshore/irsb?style=flat-square&label=⭐&color=2b2b2b) | **[IRSB](https://github.com/jeremylongshore/irsb)** | Intent Receipts & Solver Bonds — EIP-7702 spend limits, execution receipts, and dispute resolution for AI agents |
-| ![Stars](https://img.shields.io/github/stars/intent-solutions-io/lit-with-intent?style=flat-square&label=⭐&color=2b2b2b) | **[Lit With Intent](https://github.com/intent-solutions-io/lit-with-intent)** | Lit Protocol integration for token-gated content and decentralized access control |
 
 ### Automation & N8N
 
@@ -210,7 +218,7 @@ Upstream contributions to Google Cloud, developer tooling, and open source infra
 
 - 🌐 **[jeremylongshore.com](https://jeremylongshore.com)** — Personal site and portfolio
 - 🏢 **[intentsolutions.io](https://intentsolutions.io)** — AI consulting, Claude Code implementations, and team training
-- 🧩 **[claudecodeplugins.io](https://claudecodeplugins.io)** — 270+ production plugins and 739 agent skills for Claude Code
+- 🧩 **[claudecodeplugins.io](https://claudecodeplugins.io)** — 423 plugins, 2,849 skills, 177 agents for Claude Code (1.9k⭐)
 - 📝 **[startaitools.com](https://startaitools.com)** — AI tools directory with tutorials and implementation guides
 - 📊 **[inferencepriceindex.com](https://inferencepriceindex.com)** — Daily LLM API pricing benchmark across major providers
 - ⚽ **[hustlestats.io](https://hustlestats.io)** — Youth soccer analytics with AI-generated performance reports
