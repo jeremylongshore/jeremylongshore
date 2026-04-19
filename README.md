@@ -32,13 +32,26 @@
 </div>
 
 <p align="center">
-<a href="#the-intent-ecosystem">Ecosystem</a> · <a href="#what-im-building-now">Building Now</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#open-source-contributions">Contributions</a> · <a href="#products">Products</a> · <a href="#philosophy">Philosophy</a> · <a href="#connect">Connect</a>
+<a href="#what-im-building-now">Building Now</a> · <a href="#the-intent-ecosystem">Ecosystem</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#open-source-contributions">Contributions</a> · <a href="#products">Products</a> · <a href="#philosophy">Philosophy</a> · <a href="#connect">Connect</a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeremylongshore&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylongshore&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" width="49%" alt="Top Languages" />
 </p>
+
+---
+
+## What I'm Building Now
+
+| Project | Lang | What it does |
+|:--------|:----:|:-------------|
+| [**Claude Code Plugins**](https://claudecodeplugins.io) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 423 plugins, 2,849 skills, 177 agents — the largest Claude Code plugin ecosystem · 1.9k⭐ |
+| [**IntentCAD**](https://github.com/jeremylongshore/cad-dxf-agent) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Local-first DXF editor with LLM prompt-to-edit planning — approval gates, deterministic comparison engine, multi-user auth |
+| [**Intent Knowledge Base**](https://github.com/jeremylongshore/qmd-team-intent-kb) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Governed team memory for Claude Code — wiki-link resolution, freshness-aware search, export gating |
+| [**Braves Booth**](https://dixieroad.org) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Real-time broadcast ops dashboard for Atlanta Braves radio — stats-enriched AI narratives, pregame/postgame scheduling |
+| [**Intentional Cognition OS**](https://github.com/jeremylongshore/intentional-cognition-os) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Local-first knowledge operating system — kernel + compiler research |
+| [**IRSB**](https://github.com/jeremylongshore/irsb) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | On-chain guardrails for AI agents — EIP-7702 spend limits, execution receipts, dispute resolution |
 
 ---
 
@@ -88,19 +101,6 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 | [**News Pipeline**](https://github.com/jeremylongshore/news-pipeline-n8n) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/news-pipeline-n8n?style=flat-square&label=⭐) | ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white) | Daily news monitoring and topic analysis |
 | [**N8N Workflow Template**](https://github.com/jeremylongshore/n8n-workflow-template) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/n8n-workflow-template?style=flat-square&label=⭐) | ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white) | Professional template for documented n8n repos |
 | [**AI Blog Journalist**](https://github.com/jeremylongshore/ai-blog-journalist-n8n) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/ai-blog-journalist-n8n?style=flat-square&label=⭐) | ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white) | Automated blog content with AI research |
-
----
-
-## What I'm Building Now
-
-| Project | Lang | What it does |
-|:--------|:----:|:-------------|
-| [**Claude Code Plugins**](https://claudecodeplugins.io) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 423 plugins, 2,849 skills, 177 agents — the largest Claude Code plugin ecosystem · 1.9k⭐ |
-| [**IntentCAD**](https://github.com/jeremylongshore/cad-dxf-agent) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Local-first DXF editor with LLM prompt-to-edit planning — approval gates, deterministic comparison engine, multi-user auth |
-| [**Intent Knowledge Base**](https://github.com/jeremylongshore/qmd-team-intent-kb) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Governed team memory for Claude Code — wiki-link resolution, freshness-aware search, export gating |
-| [**Braves Booth**](https://dixieroad.org) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Real-time broadcast ops dashboard for Atlanta Braves radio — stats-enriched AI narratives, pregame/postgame scheduling |
-| [**Intentional Cognition OS**](https://github.com/jeremylongshore/intentional-cognition-os) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Local-first knowledge operating system — kernel + compiler research |
-| [**IRSB**](https://github.com/jeremylongshore/irsb) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) | On-chain guardrails for AI agents — EIP-7702 spend limits, execution receipts, dispute resolution |
 
 ---
 
