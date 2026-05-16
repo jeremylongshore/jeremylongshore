@@ -19,8 +19,8 @@
 
 *I build AI systems that ship. I train teams to run faster with Claude Code.*
 
-![Stars](https://img.shields.io/badge/Stars-1.9k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Projects-40+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-2.2k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Projects-130+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 
 [![Website](https://img.shields.io/badge/jeremylongshore.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://jeremylongshore.com)
 [![Company](https://img.shields.io/badge/intentsolutions.io-2b2b2b?style=flat-square&logo=building-columns&logoColor=white)](https://intentsolutions.io)
@@ -46,7 +46,7 @@
 
 | Project | Lang | What it does |
 |:--------|:----:|:-------------|
-| [**Claude Code Plugins**](https://claudecodeplugins.io) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 423 plugins, 2,849 skills, 177 agents — the largest Claude Code plugin ecosystem · 1.9k⭐ |
+| [**Claude Code Plugins**](https://claudecodeplugins.io) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 425 plugins, 2,810 skills, 200 agents — the largest Claude Code plugin ecosystem · 2.2k⭐ |
 | [**Intent CAD**](https://github.com/jeremylongshore/intent-cad) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Local-first DXF editor with LLM prompt-to-edit planning — approval gates, deterministic comparison engine, multi-user auth |
 | [**Intent Knowledge Base**](https://github.com/jeremylongshore/qmd-team-intent-kb) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Governed team memory for Claude Code — wiki-link resolution, freshness-aware search, export gating |
 | [**Braves Booth**](https://dixieroad.org) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Real-time broadcast ops dashboard for Atlanta Braves radio — stats-enriched AI narratives, pregame/postgame scheduling |
@@ -59,11 +59,11 @@
 
 ## The Intent Ecosystem
 
-A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infrastructure, production SaaS, developer tooling, and Web3. Built on Google Cloud Platform with Vertex AI, Firebase, and Cloud Run at the core. Every project amplifies the others — the plugins power the agents, the agents drive the products, and the products fund the next round of open source.
+A self-reinforcing ecosystem of 35+ interconnected tools spanning AI agent infrastructure, production SaaS, developer tooling, and Web3. Built on Google Cloud Platform with Vertex AI, Firebase, and Cloud Run at the core. Every project amplifies the others — the plugins power the agents, the agents drive the products, and the products fund the next round of open source.
 
 | Tool | Stars | Lang | Purpose |
 |:-----|:-----:|:----:|:--------|
-| [**Claude Code Plugins**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 423 plugins, 2,849 skills, 177 agents for Claude Code |
+| [**Claude Code Plugins**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐) | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | 425 plugins, 2,810 skills, 200 agents for Claude Code |
 | [**Perception**](https://github.com/intent-solutions-io/perception-with-intent) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/perception-with-intent?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 8 Vertex AI agents monitoring 50+ news sources in parallel |
 | [**Executive Intent**](https://github.com/intent-solutions-io/executive-intent) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/executive-intent?style=flat-square&label=⭐) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | Proof-first security pipeline for Gmail/Calendar intelligence |
 | [**Bob's Brain**](https://github.com/intent-solutions-io/iam-bobs-brain) | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/iam-bobs-brain?style=flat-square&label=⭐) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 8 specialist agents for Google ADK compliance |
@@ -112,7 +112,7 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 
 | | Project | Description |
 |:--|:--|:--|
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐&color=2b2b2b) | **[Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)** | 423 plugins, 2,849 skills, 177 agents for Claude Code CLI |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐&color=2b2b2b) | **[Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)** | 425 plugins, 2,810 skills, 200 agents for Claude Code CLI |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/perception-with-intent?style=flat-square&label=⭐&color=2b2b2b) | **[Perception](https://github.com/intent-solutions-io/perception-with-intent)** | Multi-agent news monitoring with 8 Vertex AI agents across 50+ sources |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/iam-bobs-brain?style=flat-square&label=⭐&color=2b2b2b) | **[Bob's Brain](https://github.com/intent-solutions-io/iam-bobs-brain)** | 8 specialist agents for Google ADK compliance and code review |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/executive-intent?style=flat-square&label=⭐&color=2b2b2b) | **[Executive Intent](https://github.com/intent-solutions-io/executive-intent)** | Proof-first security pipeline for Gmail/Calendar intelligence with DLP enforcement |
@@ -220,7 +220,7 @@ Upstream contributions to Google Cloud, developer tooling, and open source infra
 
 - 🌐 **[jeremylongshore.com](https://jeremylongshore.com)** — Personal site and portfolio
 - 🏢 **[intentsolutions.io](https://intentsolutions.io)** — AI consulting, Claude Code implementations, and team training
-- 🧩 **[claudecodeplugins.io](https://claudecodeplugins.io)** — 423 plugins, 2,849 skills, 177 agents for Claude Code (1.9k⭐)
+- 🧩 **[claudecodeplugins.io](https://claudecodeplugins.io)** — 425 plugins, 2,810 skills, 200 agents for Claude Code (2.2k⭐)
 - 📝 **[startaitools.com](https://startaitools.com)** — AI tools directory with tutorials and implementation guides
 - 📊 **[inferencepriceindex.com](https://inferencepriceindex.com)** — Daily LLM API pricing benchmark across major providers
 - ⚽ **[hustlestats.io](https://hustlestats.io)** — Youth soccer analytics with AI-generated performance reports
