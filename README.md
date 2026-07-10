@@ -9,10 +9,9 @@
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Bash](https://img.shields.io/badge/-Bash-2b2b2b?style=flat-square&logo=gnu-bash&logoColor=4EAA25)
-![GCP](https://img.shields.io/badge/-GCP-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Firebase](https://img.shields.io/badge/-Firebase-2b2b2b?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Linux](https://img.shields.io/badge/-Linux-2b2b2b?style=flat-square&logo=linux&logoColor=FCC624)
+![Caddy](https://img.shields.io/badge/-Caddy-2b2b2b?style=flat-square&logo=caddy&logoColor=1F88C0)
 ![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)
 ![Next.js](https://img.shields.io/badge/-Next.js-2b2b2b?style=flat-square&logo=next.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-2b2b2b?style=flat-square&logo=solidity&logoColor=white)
@@ -27,7 +26,7 @@
 [![Plugins](https://img.shields.io/badge/claudecodeplugins.io-2b2b2b?style=flat-square&logo=puzzle-piece&logoColor=white)](https://claudecodeplugins.io)
 [![Blog](https://img.shields.io/badge/startaitools.com-2b2b2b?style=flat-square&logo=bookstack&logoColor=white)](https://startaitools.com)
 
-`AI Agent Infrastructure` · `Claude Code` · `GCP & Vertex AI` · `Production SaaS` · `Web3`
+`AI Agent Infrastructure` · `Claude Code` · `Self-Hosted Infrastructure` · `Production SaaS` · `Web3`
 
 </div>
 
@@ -59,7 +58,7 @@
 
 ## The Intent Ecosystem
 
-A self-reinforcing ecosystem of 35+ interconnected tools spanning AI agent infrastructure, production SaaS, developer tooling, and Web3. Built on Google Cloud Platform with Vertex AI, Firebase, and Cloud Run at the core. Every project amplifies the others — the plugins power the agents, the agents drive the products, and the products fund the next round of open source.
+A self-reinforcing ecosystem of 35+ interconnected tools spanning AI agent infrastructure, production SaaS, developer tooling, and Web3. Self-hosted on a hardened Linux VPS with Caddy, Docker, and systemd at the core. Every project amplifies the others — the plugins power the agents, the agents drive the products, and the products fund the next round of open source.
 
 | Tool | Stars | Lang | Purpose |
 |:-----|:-----:|:----:|:--------|
@@ -233,7 +232,7 @@ Upstream contributions to Google Cloud, developer tooling, and open source infra
 ## Philosophy
 
 > [!IMPORTANT]
-> The bottleneck in software isn't writing code — it's knowing what to build and shipping it before the window closes. I spent 20 years running restaurants, trucking fleets, and military operations before I wrote my first line of code. That operator's bias never left: every system I build has to survive contact with real users, real money, and real deadlines. Claude Code and Vertex AI are force multipliers, but only if you treat them like tools instead of magic. Ship to production. Measure what matters. Delete what doesn't work.
+> The bottleneck in software isn't writing code — it's knowing what to build and shipping it before the window closes. I spent 20 years running restaurants, trucking fleets, and military operations before I wrote my first line of code. That operator's bias never left: every system I build has to survive contact with real users, real money, and real deadlines. Claude Code and modern AI are force multipliers, but only if you treat them like tools instead of magic. Ship to production. Measure what matters. Delete what doesn't work.
 
 ---
 
@@ -252,6 +251,6 @@ Upstream contributions to Google Cloud, developer tooling, and open source infra
 
 - Marine (USMC) and Citadel alumnus — 20+ years of operations leadership
 - Self-taught developer → AI systems architect
-- GCP stack: Vertex AI, Firebase, Cloud Run, BigQuery
+- Self-hosted stack: Linux VPS, Caddy, Docker, systemd
 - Founder of Intent Solutions — AI consulting and team training
 - Gulf Shores, Alabama
