@@ -187,8 +187,8 @@ def rows(stats: dict) -> list[tuple[str, str, str]]:
 # Instead: the portrait is pinned to an exact pixel width with textLength, and
 # the stats leader is a dashed <line> between two fixed columns rather than a
 # run of "." characters whose width we would have to predict.
-ART_W = 320       # px the portrait block occupies, enforced via textLength
-LINE_H = 12.6
+ART_W = 210       # px reserved for the portrait column
+LINE_H = 17.5
 KEY_W = 132       # px reserved for the key before the leader starts
 
 
@@ -196,6 +196,7 @@ def render(stats: dict, portrait: list[str], skin: dict) -> str:
     width = 900
     pad = 28
     art_w = ART_W
+    art_cols = max((len(l) for l in portrait), default=1)
     col2 = pad + art_w + 48
     value_x = col2 + KEY_W + 26
     art_h = len(portrait) * LINE_H
@@ -225,10 +226,20 @@ def render(stats: dict, portrait: list[str], skin: dict) -> str:
     y = pad + 42
     for line in portrait:
         if line.strip():
+            # No textLength here. Forcing every line to the same pixel width is
+            # what SHEARED the portrait: a line with four visible glyphs got
+            # spread across the full column while a dense line stayed tight, so
+            # the face pulled apart row by row. A monospace advance is ~0.6em, so
+            # 34 columns at 11px is ~225px and fits ART_W with room to spare --
+            # reserve the column generously and let the font do its own spacing.
+            #
+            # Leading spaces carry the portrait's alignment, so they are
+            # non-breaking: xml:space="preserve" is honoured inconsistently and a
+            # collapsed indent shifts a row sideways.
+            glyphs = line.replace(" ", "\u00a0")
             parts.append(
-                f'<text x="{pad}" y="{y:.1f}" font-size="11" fill="{skin["muted"]}" '
-                f'textLength="{art_w}" lengthAdjust="spacingAndGlyphs" '
-                f'xml:space="preserve">{esc(line)}</text>'
+                f'<text x="{pad}" y="{y:.1f}" font-size="15" fill="{skin["muted"]}" '
+                f'xml:space="preserve">{esc(glyphs)}</text>'
             )
         y += LINE_H
 
