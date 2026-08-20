@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="461" viewBox="0 0 900 461" role="img" aria-labelledby="card-title card-desc" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<title id="card-title">Jeremy Longshore — GitHub profile card</title>
+<desc id="card-desc">An ASCII portrait beside live GitHub statistics: 85 public source repositories, 2983 stars, 235 followers, and 8901 commits in the last twelve months.</desc>
+<rect width="900" height="461" rx="10" fill="#f3f6f4"/>
+<rect x="0.5" y="0.5" width="899" height="460" rx="10" fill="none" stroke="#d3dbd7"/>
+<rect x="28" y="28" width="32" height="2" fill="#ef5a24"/>
+<text x="72" y="34" font-size="10" font-weight="600" letter-spacing="1.6" fill="#2e5c59">INTENT SOLUTIONS</text>
+<text x="28" y="70.0" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">@@%~@@@@*;#@@@@%#*#@@@@@@@@@@@@@@@</text>
+<text x="28" y="82.6" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">@@+.%@@@*;#@==+~~;::=@@@@@@@@@@@@@</text>
+<text x="28" y="95.2" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+@=.#%#@*~%%:~*==~;;:~@@@@@@@@@@@@</text>
+<text x="28" y="107.8" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">,@+.#+;*+=**=%*===~;=;#@@@@@@@@@@@</text>
+<text x="28" y="120.4" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:*~,#*,.~+=;+#*=~~~;~;#@@@@@@@@@@@</text>
+<text x="28" y="133.0" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:~:,*+,.~+=;**: :; .,;=@@@@@%~~@@*</text>
+<text x="28" y="145.6" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:;::;;,.~+=:++;:=;,:,;.=~;*@*.,#%~</text>
+<text x="28" y="158.2" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;,,,::..~+~;++:;~,,:;;::,..+~,,;~,</text>
+<text x="28" y="170.8" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:,,,::  ;=~,+:.,.    ,;,,,,,,,,:,.</text>
+<text x="28" y="183.4" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..,.,,  ;=~.:~;;;,.,.,.,,,,,.... .</text>
+<text x="28" y="196.0" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ...,,  ,;: .=#=;,,=::....,,. .   </text>
+<text x="28" y="208.6" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        .,.:,~##;,~~, .,....      </text>
+<text x="28" y="221.2" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:,,,,,:,.,;;~==+~,:..,.,..::,.,:::</text>
+<text x="28" y="233.8" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">##**#%= .~=;%*~;:...:+=., .:+**+++</text>
+<text x="28" y="246.4" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">#####*:.;~:+%##*===+##+.,.. ,:~**+</text>
+<text x="28" y="259.0" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">###*=:,:::,*%#%%#####**:,.  ...,=*</text>
+<text x="28" y="271.6" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">##+::,,.,:=*%###*#####*~:  .....,+</text>
+<text x="28" y="284.2" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">##;,,.,  ~++%#######*#+~. ...    ;</text>
+<text x="28" y="296.8" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">#*:..... ;=+####**##*#+: ..,.    .</text>
+<text x="28" y="309.4" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">#=: ..,.,,==####**####~......     </text>
+<text x="28" y="322.0" font-size="11" fill="#4f5b60" textLength="320" lengthAdjust="spacingAndGlyphs" xml:space="preserve">*;:  .:.:.;=####**###*: .. .      </text>
+<text x="396" y="70.0" font-size="15" font-weight="700" fill="#c94213">jeremylongshore@github</text>
+<rect x="396" y="77.0" width="476" height="1" fill="#d3dbd7"/>
+<text x="396" y="103.0" font-size="12" font-weight="600" fill="#161b1d">Uptime</text>
+<line x1="528" y1="99.0" x2="542" y2="99.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="103.0" font-size="12" fill="#4f5b60">1 year, 2 months, 448 days total</text>
+<text x="396" y="124.0" font-size="12" font-weight="600" fill="#161b1d">Repos</text>
+<line x1="528" y1="120.0" x2="542" y2="120.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="124.0" font-size="12" fill="#4f5b60">85 public sources</text>
+<text x="396" y="145.0" font-size="12" font-weight="600" fill="#161b1d">Stars</text>
+<line x1="528" y1="141.0" x2="542" y2="141.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="145.0" font-size="12" fill="#4f5b60">2,983</text>
+<text x="396" y="166.0" font-size="12" font-weight="600" fill="#161b1d">Followers</text>
+<line x1="528" y1="162.0" x2="542" y2="162.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="166.0" font-size="12" fill="#4f5b60">235  ·  Following 58</text>
+<text x="396" y="201.0" font-size="12" font-weight="600" fill="#161b1d">Commits (12mo)</text>
+<line x1="528" y1="197.0" x2="542" y2="197.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="201.0" font-size="12" fill="#4f5b60">8,901  (6,389 public + 2,512 private)</text>
+<text x="396" y="222.0" font-size="12" font-weight="600" fill="#161b1d">Pull requests</text>
+<line x1="528" y1="218.0" x2="542" y2="218.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="222.0" font-size="12" fill="#4f5b60">3,558</text>
+<text x="396" y="243.0" font-size="12" font-weight="600" fill="#161b1d">Issues</text>
+<line x1="528" y1="239.0" x2="542" y2="239.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="243.0" font-size="12" fill="#4f5b60">747</text>
+<text x="396" y="278.0" font-size="12" font-weight="600" fill="#161b1d">Languages</text>
+<line x1="528" y1="274.0" x2="542" y2="274.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="278.0" font-size="12" fill="#4f5b60">TypeScript 23  Python 20  Ruby 11  Shell 7  HTML 3</text>
+<text x="396" y="299.0" font-size="12" font-weight="600" fill="#161b1d">Top repos</text>
+<line x1="528" y1="295.0" x2="542" y2="295.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="299.0" font-size="12" fill="#4f5b60">claude-code-plugins-plus-… 2,655</text>
+<text x="396" y="334.0" font-size="12" font-weight="600" fill="#161b1d">Work</text>
+<line x1="528" y1="330.0" x2="542" y2="330.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="334.0" font-size="12" fill="#4f5b60">Intent Solutions  ·  intentsolutions.io</text>
+<text x="396" y="355.0" font-size="12" font-weight="600" fill="#161b1d">Focus</text>
+<line x1="528" y1="351.0" x2="542" y2="351.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="355.0" font-size="12" fill="#4f5b60">Claude Code plugins, agent tooling, eval infra</text>
+<text x="396" y="376.0" font-size="12" font-weight="600" fill="#161b1d">Ops</text>
+<line x1="528" y1="372.0" x2="542" y2="372.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="376.0" font-size="12" fill="#4f5b60">Self-hosted VPS  ·  Caddy  ·  Docker  ·  borg + B2</text>
+<text x="396" y="411.0" font-size="12" font-weight="600" fill="#161b1d">Contact</text>
+<line x1="528" y1="407.0" x2="542" y2="407.0" stroke="#d3dbd7" stroke-width="1" stroke-dasharray="1 3"/>
+<text x="554" y="411.0" font-size="12" fill="#4f5b60">jeremy@intentsolutions.io</text>
+<text x="28" y="443" font-size="9.5" fill="#636e72">regenerated 2026-08-20 03:45 UTC · commit counts cover the last 12 months</text>
+</svg>

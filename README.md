@@ -1,44 +1,30 @@
 <div align="center">
 
-# Jeremy Longshore
-
-<img src="profile.jpeg" alt="Jeremy Longshore" width="180" />
+<a href="https://github.com/jeremylongshore/jeremylongshore">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeremylongshore/jeremylongshore/main/card_dark.svg">
+    <img alt="Jeremy Longshore — GitHub profile card: live repository, star, follower and commit counts" src="https://raw.githubusercontent.com/jeremylongshore/jeremylongshore/main/card_light.svg" width="900">
+  </picture>
+</a>
 
 **Gulf Shores, Alabama** · Corporate restaurant partner → Semi-truck fleet owner → AI slop king
 
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Bash](https://img.shields.io/badge/-Bash-2b2b2b?style=flat-square&logo=gnu-bash&logoColor=4EAA25)
-![GCP](https://img.shields.io/badge/-GCP-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Firebase](https://img.shields.io/badge/-Firebase-2b2b2b?style=flat-square&logo=firebase&logoColor=FFCA28)
 ![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)
 ![Next.js](https://img.shields.io/badge/-Next.js-2b2b2b?style=flat-square&logo=next.js&logoColor=white)
+![Caddy](https://img.shields.io/badge/-Caddy-2b2b2b?style=flat-square&logo=caddy&logoColor=1F88C0)
 ![Solidity](https://img.shields.io/badge/-Solidity-2b2b2b?style=flat-square&logo=solidity&logoColor=white)
 
 *I build AI systems that ship. I train teams to run faster with Claude Code.*
 
-![Stars](https://img.shields.io/badge/Stars-1.9k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Projects-40+-2b2b2b?style=flat-square&logo=github&logoColor=white)
-
-[![Website](https://img.shields.io/badge/jeremylongshore.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://jeremylongshore.com)
-[![Company](https://img.shields.io/badge/intentsolutions.io-2b2b2b?style=flat-square&logo=building-columns&logoColor=white)](https://intentsolutions.io)
-[![Plugins](https://img.shields.io/badge/claudecodeplugins.io-2b2b2b?style=flat-square&logo=puzzle-piece&logoColor=white)](https://claudecodeplugins.io)
-[![Blog](https://img.shields.io/badge/startaitools.com-2b2b2b?style=flat-square&logo=bookstack&logoColor=white)](https://startaitools.com)
-
-`AI Agent Infrastructure` · `Claude Code` · `GCP & Vertex AI` · `Production SaaS` · `Web3`
+<sub>The card above regenerates itself every six hours from the GitHub API — see
+<a href="scripts/build_card.py">scripts/build_card.py</a>. Commit counts cover the
+trailing twelve months, which is the window the API reports.</sub>
 
 </div>
-
-<p align="center">
-<a href="#what-im-building-now">Building Now</a> · <a href="#the-intent-ecosystem">Ecosystem</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#open-source-contributions">Contributions</a> · <a href="#products">Products</a> · <a href="#philosophy">Philosophy</a> · <a href="#connect">Connect</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremylongshore&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylongshore&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" width="49%" alt="Top Languages" />
-</p>
 
 ---
 
@@ -59,7 +45,7 @@
 
 ## The Intent Ecosystem
 
-A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infrastructure, production SaaS, developer tooling, and Web3. Built on Google Cloud Platform with Vertex AI, Firebase, and Cloud Run at the core. Every project amplifies the others — the plugins power the agents, the agents drive the products, and the products fund the next round of open source.
+A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infrastructure, production SaaS, developer tooling, and Web3. Self-hosted on a single VPS behind Caddy — Docker, systemd, borg to Backblaze B2. Every project amplifies the others — the plugins power the agents, the agents drive the products, and the products fund the next round of open source.
 
 | Tool | Stars | Lang | Purpose |
 |:-----|:-----:|:----:|:--------|
@@ -130,7 +116,7 @@ A self-reinforcing ecosystem of 30+ interconnected tools spanning AI agent infra
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/hustle?style=flat-square&label=⭐&color=2b2b2b) | **[HustleStats](https://github.com/intent-solutions-io/hustle)** | Youth soccer performance tracking with Vertex AI analysis and college recruiting profiles |
 | ![Stars](https://img.shields.io/github/stars/jeremylongshore/cost-plus-db?style=flat-square&label=⭐&color=2b2b2b) | **[CostPlusDB](https://github.com/jeremylongshore/cost-plus-db)** | PostgreSQL hosting at infrastructure cost + 25% with published benchmarks |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/stci-standard-inference-token-cost-index?style=flat-square&label=⭐&color=2b2b2b) | **[STCI](https://github.com/intent-solutions-io/stci-standard-inference-token-cost-index)** | Daily LLM API pricing benchmark with free public API endpoint |
-| ![Stars](https://img.shields.io/github/stars/intent-solutions-io/DiagnosticPro?style=flat-square&label=⭐&color=2b2b2b) | **[DiagnosticPro](https://github.com/intent-solutions-io/DiagnosticPro)** | AI-powered equipment diagnostics with Vertex AI Gemini for $4.99 per diagnosis |
+| ![Stars](https://img.shields.io/github/stars/intent-solutions-io/DiagnosticPro?style=flat-square&label=⭐&color=2b2b2b) | **[DiagnosticPro](https://github.com/intent-solutions-io/DiagnosticPro)** | AI-powered equipment diagnostics for $4.99 per diagnosis |
 | ![Stars](https://img.shields.io/github/stars/jeremylongshore/startaitools.com?style=flat-square&label=⭐&color=2b2b2b) | **[Start AI Tools](https://github.com/jeremylongshore/startaitools.com)** | AI tools directory with in-depth tutorials and implementation guides |
 
 ### Developer Tools
@@ -233,7 +219,7 @@ Upstream contributions to Google Cloud, developer tooling, and open source infra
 ## Philosophy
 
 > [!IMPORTANT]
-> The bottleneck in software isn't writing code — it's knowing what to build and shipping it before the window closes. I spent 20 years running restaurants, trucking fleets, and military operations before I wrote my first line of code. That operator's bias never left: every system I build has to survive contact with real users, real money, and real deadlines. Claude Code and Vertex AI are force multipliers, but only if you treat them like tools instead of magic. Ship to production. Measure what matters. Delete what doesn't work.
+> The bottleneck in software isn't writing code — it's knowing what to build and shipping it before the window closes. I spent 20 years running restaurants, trucking fleets, and military operations before I wrote my first line of code. That operator's bias never left: every system I build has to survive contact with real users, real money, and real deadlines. Claude Code is a force multiplier, but only if you treat them like tools instead of magic. Ship to production. Measure what matters. Delete what doesn't work.
 
 ---
 
@@ -252,6 +238,7 @@ Upstream contributions to Google Cloud, developer tooling, and open source infra
 
 - Marine (USMC) and Citadel alumnus — 20+ years of operations leadership
 - Self-taught developer → AI systems architect
-- GCP stack: Vertex AI, Firebase, Cloud Run, BigQuery
+- Self-hosted stack: Contabo VPS, Caddy, Docker, systemd, borg + Backblaze B2
 - Founder of Intent Solutions — AI consulting and team training
 - Gulf Shores, Alabama
+
