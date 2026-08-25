@@ -25,6 +25,8 @@
 [![Plugins](https://img.shields.io/badge/tonsofskills.com-2b2b2b?style=flat-square&logo=puzzle-piece&logoColor=white)](https://tonsofskills.com)
 [![Blog](https://img.shields.io/badge/startaitools.com-2b2b2b?style=flat-square&logo=bookstack&logoColor=white)](https://startaitools.com)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
 `AI Agent Infrastructure` · `Claude Code` · `Self-Hosted Infrastructure` · `Production SaaS`
 
 </div>
