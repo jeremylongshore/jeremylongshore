@@ -7,6 +7,8 @@
   </picture>
 </a>
 
+<img src="profile.jpeg" alt="Jeremy Longshore" width="180" />
+
 **Gulf Shores, Alabama** · Corporate restaurant partner → Semi-truck fleet owner → AI slop king
 
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
@@ -19,6 +21,8 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-2b2b2b?style=flat-square&logo=solidity&logoColor=white)
 
 *I build AI systems that ship. I train teams to run faster with Claude Code.*
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
 
 <sub>The card above regenerates itself every six hours from the GitHub API — see
 <a href="scripts/build_card.py">scripts/build_card.py</a>. Commit counts cover the
