@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jeremylongshore/jeremylongshore">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeremylongshore/jeremylongshore/main/card_dark.svg">
-    <img alt="Jeremy Longshore — GitHub profile card: live repository, star, follower and commit counts" src="https://raw.githubusercontent.com/jeremylongshore/jeremylongshore/main/card_light.svg" width="900">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeremylongshore/jeremylongshore/master/card_dark.svg">
+    <img alt="Jeremy Longshore — GitHub profile card: live repository, star, follower and commit counts" src="https://raw.githubusercontent.com/jeremylongshore/jeremylongshore/master/card_light.svg" width="900">
   </picture>
 </a>
 

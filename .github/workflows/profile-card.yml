@@ -14,7 +14,7 @@ on:
     - cron: '17 */6 * * *'      # every six hours, off the hour to dodge the stampede
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - 'scripts/build_card.py'
       - 'assets/portrait.txt'
