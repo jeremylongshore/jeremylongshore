@@ -1,6 +1,12 @@
 <div align="center">
 
-# Jeremy Longshore
+<a href="https://github.com/jeremylongshore/jeremylongshore">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeremylongshore/jeremylongshore/main/card_dark.svg">
+    <img alt="Jeremy Longshore — GitHub profile card: live repository, star, follower and commit counts" src="https://raw.githubusercontent.com/jeremylongshore/jeremylongshore/main/card_light.svg" width="900">
+  </picture>
+</a>
+
 
 <img src="profile.jpeg" alt="Jeremy Longshore" width="180" />
 
@@ -17,8 +23,12 @@
 
 *I build AI systems that ship. I train teams to run faster with Claude Code.*
 
-![Stars](https://img.shields.io/badge/Stars-2.5k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Projects-125+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
+<sub>The card above regenerates itself every six hours from the GitHub API — see
+<a href="scripts/build_card.py">scripts/build_card.py</a>. Commit counts cover the
+trailing twelve months, which is the window the API reports.</sub>
+
 
 [![Website](https://img.shields.io/badge/jeremylongshore.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://jeremylongshore.com)
 [![Company](https://img.shields.io/badge/intentsolutions.io-2b2b2b?style=flat-square&logo=building-columns&logoColor=white)](https://intentsolutions.io)
