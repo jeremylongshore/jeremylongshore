@@ -17,8 +17,8 @@
 
 *I build AI systems that ship. I train teams to run faster with Claude Code.*
 
-![Stars](https://img.shields.io/badge/Stars-2.5k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Projects-125+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-3k+-2b2b2b?style=flat-square&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Projects-150+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 
 [![Website](https://img.shields.io/badge/jeremylongshore.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://jeremylongshore.com)
 [![Company](https://img.shields.io/badge/intentsolutions.io-2b2b2b?style=flat-square&logo=building-columns&logoColor=white)](https://intentsolutions.io)
@@ -76,13 +76,13 @@ Everything below runs on **one self-hosted Linux VPS** — single Caddy ingress,
 
 | | Project | Description |
 |:--|:--|:--|
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=⭐&color=2b2b2b) | **[Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)** | 400+ plugins, 2,900+ skills, 17 packs — the largest Claude Code plugin ecosystem |
-| ![Stars](https://img.shields.io/github/stars/intent-solutions-io/intent-eval-platform?style=flat-square&label=⭐&color=2b2b2b) | **[Intent Eval Platform](https://github.com/intent-solutions-io/intent-eval-platform)** | Audit-first AI evaluation — 6 Apache-2.0 repos, one signed Evidence Bundle |
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-slack-channel?style=flat-square&label=⭐&color=2b2b2b) | **[Claude Code Slack Channel](https://github.com/jeremylongshore/claude-code-slack-channel)** | Two-way Slack bridge for Claude Code — Socket Mode + MCP stdio, tamper-evident audit journal |
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/bobs-big-brain-compiler?style=flat-square&label=⭐&color=2b2b2b) | **[Bob's Big Brain Compiler](https://github.com/jeremylongshore/bobs-big-brain-compiler)** | Reads and organizes your sources into cited knowledge — the Compile-Then-Govern compile engine |
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/bobs-big-brain-registrar?style=flat-square&label=⭐&color=2b2b2b) | **[Bob's Big Brain Registrar](https://github.com/jeremylongshore/bobs-big-brain-registrar)** | The team's memory keeper — admits by code, keeps tamper-evident receipts |
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/guidewire-mcp-for-claude?style=flat-square&label=⭐&color=2b2b2b) | **[Guidewire MCP](https://github.com/jeremylongshore/guidewire-mcp-for-claude)** | Carrier-native MCP + governance harness for Guidewire estates |
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/cad-ai-agent?style=flat-square&label=⭐&color=2b2b2b) | **[CAD AI Agent](https://github.com/jeremylongshore/cad-ai-agent)** | Drawing Intelligence Platform for AEC — non-destructive LLM edits on DXF/PDF/DWG |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)** | 400+ plugins, 2,900+ skills, 17 packs — the largest Claude Code plugin ecosystem |
+| ![Stars](https://img.shields.io/github/stars/intent-solutions-io/intent-eval-platform?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Intent Eval Platform](https://github.com/intent-solutions-io/intent-eval-platform)** | Audit-first AI evaluation — 6 Apache-2.0 repos, one signed Evidence Bundle |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-slack-channel?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Claude Code Slack Channel](https://github.com/jeremylongshore/claude-code-slack-channel)** | Two-way Slack bridge for Claude Code — Socket Mode + MCP stdio, tamper-evident audit journal |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/bobs-big-brain-compiler?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Bob's Big Brain Compiler](https://github.com/jeremylongshore/bobs-big-brain-compiler)** | Reads and organizes your sources into cited knowledge — the Compile-Then-Govern compile engine |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/bobs-big-brain-registrar?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Bob's Big Brain Registrar](https://github.com/jeremylongshore/bobs-big-brain-registrar)** | The team's memory keeper — admits by code, keeps tamper-evident receipts |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/guidewire-mcp-for-claude?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Guidewire MCP](https://github.com/jeremylongshore/guidewire-mcp-for-claude)** | Carrier-native MCP + governance harness for Guidewire estates |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/cad-ai-agent?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[CAD AI Agent](https://github.com/jeremylongshore/cad-ai-agent)** | Drawing Intelligence Platform for AEC — non-destructive LLM edits on DXF/PDF/DWG |
 
 ---
 
