@@ -18,7 +18,6 @@
 *I build AI systems that ship. I train teams to run faster with Claude Code.*
 
 ![Stars](https://img.shields.io/github/stars/jeremylongshore?affiliations=OWNER&style=flat-square&logo=github&logoColor=white&label=Stars&color=2b2b2b)
-![Repos](https://img.shields.io/badge/Projects-150+-2b2b2b?style=flat-square&logo=github&logoColor=white)
 
 [![Website](https://img.shields.io/badge/jeremylongshore.com-2b2b2b?style=flat-square&logo=google-chrome&logoColor=white)](https://jeremylongshore.com)
 [![Company](https://img.shields.io/badge/intentsolutions.io-2b2b2b?style=flat-square&logo=building-columns&logoColor=white)](https://intentsolutions.io)
