@@ -2,7 +2,7 @@
 
 # Jeremy Longshore
 
-<img src="profile.jpeg" alt="Jeremy Longshore" width="180" />
+<img src="avatar.jpeg" alt="Jeremy Longshore" width="180" />
 
 **Gulf Shores, Alabama** · Corporate restaurant partner → Semi-truck fleet owner → AI slop king
 
@@ -32,11 +32,6 @@
 
 <p align="center">
 <a href="#what-im-building-now">Building Now</a> · <a href="#live-in-production">Live in Production</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#open-source-contributions">Contributions</a> · <a href="#philosophy">Philosophy</a> · <a href="#connect">Connect</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremylongshore&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylongshore&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
 ---
@@ -103,12 +98,6 @@ Past upstream contributions across the ecosystem:
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/jeremylongshore)
-
-<p align="center">
-  <a href="https://star-history.com/#jeremylongshore/claude-code-plugins-plus-skills&Date">
-    <img src="https://api.star-history.com/svg?repos=jeremylongshore/claude-code-plugins-plus-skills&type=Date&theme=dark" alt="Star History Chart" width="800" />
-  </a>
-</p>
 
 ---
 
