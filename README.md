@@ -40,8 +40,9 @@
 
 | Project | What it is |
 |:--------|:-----------|
-| [**Claude Code Plugins**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | The Claude Code plugin + skill marketplace ([tonsofskills.com](https://tonsofskills.com)) — 400+ plugins, 2,900+ skills, 17 packs · 2,500★ |
+| [**Tons of Skills**](https://github.com/jeremylongshore/tons-of-skills-marketplace) | Model-agnostic agent-skills platform ([tonsofskills.com](https://tonsofskills.com)) — harness-free canonical skills, Claude Code as today's verified-native harness, and the `ccpi` package manager · 400+ plugins, 2,900+ skills, 350+ agents · 2.7k★ |
 | [**Intent Eval Platform**](https://github.com/intent-solutions-io/intent-eval-platform) | Vendor-neutral eval lab — 6 composable Apache-2.0 repos converging on one signed Evidence Bundle (in-toto → Rekor). Measure the behavior, sign the result, gate the ship |
+| [**Intent Solutions Omarchy Plugins**](https://github.com/intent-solutions-io/omarchy-plugins) | 16 public Omarchy Quattro plugins plus a shared widget template — all listed in the official marketplace, with permanent pages at [oma.intentsolutions.io](https://oma.intentsolutions.io) and one shared 12-gate security lane |
 | [**Bob's Big Brain Compiler**](https://github.com/jeremylongshore/bobs-big-brain-compiler) + [**Bob's Big Brain Registrar**](https://github.com/jeremylongshore/bobs-big-brain-registrar) | The Compile-Then-Govern brain — facts compiled into governed, audited memories, then queried with citations. The full compile → govern → search loop runs green in production |
 | [**Braves Booth**](https://scorecardecho.com) | Live broadcast ops dashboard for Atlanta Braves radio — stats-enriched AI narratives, in production since April 2026, self-hosted |
 | [**DiagnosticPro**](https://diagnosticpro.io) | AI diagnostic reports for vehicles and equipment — $4.99 per report or $29/mo. Fully self-hosted, powered by OpenAI gpt-4o |
@@ -61,7 +62,7 @@ Everything below runs on **one self-hosted Linux VPS** — single Caddy ingress,
 - ⚾ **[scorecardecho.com](https://scorecardecho.com)** — Braves Booth broadcast dashboard, live on air since April 2026
 - 🔧 **[diagnosticpro.io](https://diagnosticpro.io)** — AI diagnostic reports, $4.99 + $29/mo
 - ⚽ **[hustlestats.io](https://hustlestats.io)** — youth-sports analytics PWA
-- 🧩 **[tonsofskills.com](https://tonsofskills.com)** — the Claude Code plugin + skill marketplace
+- 🧩 **[tonsofskills.com](https://tonsofskills.com)** — model-agnostic agent-skills marketplace and `ccpi` package manager
 - 🏗️ **Internal stack, same box** — Plane (projects), ERPNext (ERP), Twenty (CRM), Umami (analytics)
 
 ---
@@ -70,8 +71,9 @@ Everything below runs on **one self-hosted Linux VPS** — single Caddy ingress,
 
 | | Project | Description |
 |:--|:--|:--|
-| ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)** | 400+ plugins, 2,900+ skills, 17 packs — the largest Claude Code plugin ecosystem |
+| ![Stars](https://img.shields.io/github/stars/jeremylongshore/tons-of-skills-marketplace?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Tons of Skills](https://github.com/jeremylongshore/tons-of-skills-marketplace)** | Model-agnostic agent-skills platform — 400+ plugins, 2,900+ skills, 350+ agents, and the `ccpi` package manager |
 | ![Stars](https://img.shields.io/github/stars/intent-solutions-io/intent-eval-platform?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Intent Eval Platform](https://github.com/intent-solutions-io/intent-eval-platform)** | Audit-first AI evaluation — 6 Apache-2.0 repos, one signed Evidence Bundle |
+| ![Stars](https://img.shields.io/github/stars/intent-solutions-io/omarchy-plugins?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Intent Solutions Omarchy Plugins](https://github.com/intent-solutions-io/omarchy-plugins)** | 16 public Omarchy Quattro plugins, a shared secure widget template, official marketplace listings, and a common 12-gate pre-submit lane |
 | ![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-slack-channel?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Claude Code Slack Channel](https://github.com/jeremylongshore/claude-code-slack-channel)** | Two-way Slack bridge for Claude Code — Socket Mode + MCP stdio, tamper-evident audit journal |
 | ![Stars](https://img.shields.io/github/stars/jeremylongshore/bobs-big-brain-compiler?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Bob's Big Brain Compiler](https://github.com/jeremylongshore/bobs-big-brain-compiler)** | Reads and organizes your sources into cited knowledge — the Compile-Then-Govern compile engine |
 | ![Stars](https://img.shields.io/github/stars/jeremylongshore/bobs-big-brain-registrar?style=flat-square&label=%E2%AD%90&color=2b2b2b) | **[Bob's Big Brain Registrar](https://github.com/jeremylongshore/bobs-big-brain-registrar)** | The team's memory keeper — admits by code, keeps tamper-evident receipts |
