@@ -2,6 +2,13 @@
 
 # Jeremy Longshore
 
+<!-- intent-select-partner:start -->
+<p><a href="https://intentsolutions.io/"><img src="assets/brand/claude-select-partner.svg" alt="Intent Solutions: Claude Partner Network Select Services Partner" width="300" height="95" /></a></p>
+
+Intent Solutions is a Claude Partner Network Select Services Partner.
+<!-- intent-select-partner:end -->
+
+
 <img src="avatar.jpeg" alt="Jeremy Longshore" width="180" />
 
 **Gulf Shores, Alabama** · Corporate restaurant partner → Semi-truck fleet owner → AI slop king
