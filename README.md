@@ -11,7 +11,7 @@ Intent Solutions is a Claude Partner Network Select Services Partner.
 
 <img src="avatar.jpeg" alt="Jeremy Longshore" width="180" />
 
-**Gulf Shores, Alabama** · Corporate restaurant partner → Semi-truck fleet owner → AI slop king
+**Gulf Shores, Alabama** · Corporate restaurant partner → Semi-truck fleet owner → Founder, Intent Solutions
 
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
