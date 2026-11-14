@@ -106,7 +106,9 @@ Past upstream contributions across the ecosystem:
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/jeremylongshore)
+<a href="./profile-3d-contrib/profile-night-green.svg"><img src="./profile-3d-contrib/profile-night-green.svg" alt="Jeremy Longshore's GitHub contributions over the last year, drawn as a 3D graph" width="100%" /></a>
+
+<sub>Public and private contributions, regenerated daily by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
 
 ---
 
